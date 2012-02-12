@@ -33487,3 +33487,651 @@ run -all
 # (A,B,C,D,S) = ( 2,  2,  3,  6, 3)	 Expected:  6 Got:  6
 # (A,B,C,D,S) = ( 0,  3,  4,  7, 3)	 Expected:  7 Got:  7
 # (A,B,C,D,S) = ( 1,  4,  5,  8, 3)	 Expected:  8 Got:  8
+restart -f
+run -all
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 3)	 Expected:  9 Got:  9
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 3)	 Expected: 10 Got: 10
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 3)	 Expected:  9 Got:  9
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 3)	 Expected: 10 Got: 10
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 3)	 Expected:  9 Got:  9
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 3)	 Expected: 10 Got: 10
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 0)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 0)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 0)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 1)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 1)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 1)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 1)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 1)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 2)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 2)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 2)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 2)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 2)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 2)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 2)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  0,  0,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 1,  1,  1,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 2,  2,  2,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 0,  3,  3,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 1,  4,  4,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 2,  0,  5,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 0,  1,  6,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 1,  2,  0,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 2,  3,  1,  8, 3)	 Expected:  8 Got:  8
+# (A,B,C,D,S) = ( 0,  4,  2,  9, 3)	 Expected:  9 Got:  9
+# (A,B,C,D,S) = ( 1,  0,  3, 10, 3)	 Expected: 10 Got: 10
+# (A,B,C,D,S) = ( 2,  1,  4,  0, 3)	 Expected:  0 Got:  0
+# (A,B,C,D,S) = ( 0,  2,  5,  1, 3)	 Expected:  1 Got:  1
+# (A,B,C,D,S) = ( 1,  3,  6,  2, 3)	 Expected:  2 Got:  2
+# (A,B,C,D,S) = ( 2,  4,  0,  3, 3)	 Expected:  3 Got:  3
+# (A,B,C,D,S) = ( 0,  0,  1,  4, 3)	 Expected:  4 Got:  4
+# (A,B,C,D,S) = ( 1,  1,  2,  5, 3)	 Expected:  5 Got:  5
+# (A,B,C,D,S) = ( 2,  2,  3,  6, 3)	 Expected:  6 Got:  6
+# (A,B,C,D,S) = ( 0,  3,  4,  7, 3)	 Expected:  7 Got:  7
+# (A,B,C,D,S) = ( 1,  4,  5,  8, 3)	 Expected:  8 Got:  8
+exit -sim
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# 15 compiles, 1 failed with no errors. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 1 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fa_t
+# ** Error: (vsim-PLI-3068) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa_t.v(13): $display : Invalid argument.
+#         Region: /fa_t
+# Error loading design
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 1 failed with no errors. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 1 failed with no errors. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# Loading work.fa_t
+run -all
+# (A,B,Cin)= (0, 0, 0)
+# (A,B,Cin)= (1, 0, 0)
+# (A,B,Cin)= (0, 1, 0)
+# (A,B,Cin)= (1, 1, 0)
+# (A,B,Cin)= (0, 0, 1)
+# (A,B,Cin)= (1, 0, 1)
+# (A,B,Cin)= (0, 1, 1)
+# (A,B,Cin)= (1, 1, 1)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v failed with 1 errors.
+# 16 compiles, 1 failed with 1 error. 
+exit -sim
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fa_t
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (0, 0) Got: (z, z)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (1, 1) Got: (z, z)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+run -all
+restart -f
+# Loading work.fa_t
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (0, 0) Got: (z, z)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (1, 0) Got: (z, z)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (0, 1) Got: (z, z)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (1, 1) Got: (z, z)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.fa_t
+# ** Error: (vsim-3037) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa_t.v(7): Missing instance name in instantiation of 'fa'.
+#         Region: /fa_t
+run -all
+# No Design Loaded!
+vsim work.fa_t
+# vsim work.fa_t 
+# Loading work.fa_t
+# ** Error: (vsim-3037) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa_t.v(7): Missing instance name in instantiation of 'fa'.
+#         Region: /fa_t
+# Error loading design
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# Loading work.fa_t
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa.v(13): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /fa_t/adder/csel
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa.v(13): [TFMPC] - Missing connection for port 'Out'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa.v(16): [TFMPC] - Too few port connections. Expected 4, found 3.
+#         Region: /fa_t/adder/ssel
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa.v(16): [TFMPC] - Missing connection for port 'Out'.
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fa_t
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (0, 0) Got: (0, 0)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (1, 0) Got: (1, 0)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (1, 0) Got: (1, 0)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (0, 1) Got: (0, 1)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (1, 0) Got: (1, 0)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (0, 1) Got: (0, 1)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (0, 1) Got: (0, 1)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (1, 1) Got: (1, 1)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# 16 compiles, 0 failed with no errors. 
+vsim work.fa_t
+# vsim work.fa_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fa_t
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (S=0, Cout=0) Got: (0, 0)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (S=1, Cout=1) Got: (1, 1)
+restart -f
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (S=0, Cout=0) Got: (0, 0)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (S=1, Cout=1) Got: (1, 1)
+exit -sim
