@@ -1,0 +1,8 @@
+# (InA, InB, S) = (0, 0, 0) Expected: 0 Got: 0
+# (InA, InB, S) = (0, 0, 1) Expected: 0 Got: 0
+# (InA, InB, S) = (0, 1, 0) Expected: 0 Got: 0
+# (InA, InB, S) = (0, 1, 1) Expected: 1 Got: 1
+# (InA, InB, S) = (1, 0, 0) Expected: 1 Got: 1
+# (InA, InB, S) = (1, 0, 1) Expected: 0 Got: 0
+# (InA, InB, S) = (1, 1, 0) Expected: 1 Got: 1
+# (InA, InB, S) = (1, 1, 1) Expected: 1 Got: 1      
