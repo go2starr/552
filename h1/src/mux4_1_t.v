@@ -1,10 +1,10 @@
 // 4-1 multiplexer testbench
 module mux4_1_t();
    integer i;
-   reg [3:0] InA, InB, InC, InD;
+   reg     InA, InB, InC, InD;
    reg [1:0] S;
-   reg [3:0] Expected;
-   wire [3:0] Out;
+   reg       Expected;
+   wire Out;
 
    mux4_1 mux(InA, InB, InC, InD, S, Out);
 
