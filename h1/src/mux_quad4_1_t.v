@@ -10,15 +10,15 @@ module mux_quad4_1_t();
 
    initial begin
       for (i = 0; i < 16; i = i + 1) begin // all Select inputs
-         for (j = 0; j < 20; j = j + 1) begin // 20 inputs each
+         for (j = 0; j < 4; j = j + 1) begin // 20 inputs each
             // Select
             S = i;
             
             // Generate some "random" values
             InA = (j % 3) % 16;
-            InB = (j % 5) % 16;
-            InC = (j % 7) % 16;
-            InD = (j % 11) % 16;
+            InB = (4*j % 5) % 16;
+            InC = (5*j % 7) % 16;
+            InD = (6*j % 11) % 16;
             
             case (S)
               0: Expected = InA;
