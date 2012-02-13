@@ -46,10 +46,10 @@ r1
 31
 o-work work
 vclkrst
-I8fzdDdHGFgK4C?2g2<MPV3
+IfQ0S>2C5oJd:G5XRnbflz1
 VK>2=mbfl0iJWOIS>jZz]C0
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
-w1326398737
+w1329097519
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/clkrst.v
 L0 12
 OE;L;5.8b;17
@@ -57,10 +57,10 @@ r1
 31
 o-work work
 vdetect_58
-I<fJA]F==go3>TVN1di`^f2
+I[fNae9m`0aOe[bC9SgRz:2
 Vdak`YKaTTZ<6_N6O9iEIm2
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
-w1329095192
+w1329098579
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58.v
 L0 2
 OE;L;5.8b;17
@@ -68,10 +68,10 @@ r1
 31
 o-work work
 vdetect_58_next
-I=jL4dk51]khCTF4Ea>7bW3
+IXz:a:aWN6k`]KiCMaL^4n2
 V]JO0@135`0LkzYKKW_Z^42
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
-w1329096366
+w1329097278
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v
 L0 1
 OE;L;5.8b;17
@@ -79,11 +79,22 @@ r1
 31
 o-work work
 vdetect_58_next_t
-I<<FPFhd8h5_PG4]AXFmR<2
+I`=Y8dZPXk2[_h;AJ@6<YQ1
 V=zZ0h3KBT_Rdkh][?H;5W0
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
-w1329096702
+w1329097109
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next_t.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o-work work
+vdetect_58_t
+I<:bB2[hgN;Hk@c5CUMC3:2
+VGI>WW0NoOQf`:SZ75>T=K1
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
+w1329099050
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_t.v
 L0 1
 OE;L;5.8b;17
 r1

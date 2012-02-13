@@ -24,7 +24,7 @@ module clkrst (clk, rst, err);
       cycle_count = 0;
       rst = 1;
       clk = 1;
-      #201 rst = 0; // delay until slightly after two clock periods
+      #221 rst = 0; // delay until slightly after two clock periods
     end
 
     always #50 begin   // delay 1/2 clock period each time thru loop
