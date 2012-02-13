@@ -35185,3 +35185,608 @@ run -all
 # (A,B,CI)=(29696, 37864, 1)	 (SUM,CO):: Expected: (      2025,1) Got: ( 2025, 1)
 # (A,B,CI)=(53248,  5192, 0)	 (SUM,CO):: Expected: (     58440,0) Got: (58440, 0)
 # (A,B,CI)=(16384,  5384, 1)	 (SUM,CO):: Expected: (     21769,0) Got: (21769, 0)
+# Compile of detect_58.v failed with 1 errors.
+# Compile of detect_58.v was successful with warnings.
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# 22 compiles, 0 failed with no errors. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# 22 compiles, 0 failed with no errors. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v failed with 1 errors.
+# Compile of mux16_1.v was successful with warnings.
+# 22 compiles, 1 failed with 1 error. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v failed with 1 errors.
+# Compile of mux16_1.v was successful with warnings.
+# 22 compiles, 1 failed with 1 error. 
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v failed with 1 errors.
+# Compile of mux16_1.v was successful with warnings.
+# 22 compiles, 1 failed with 1 error. 
+# Compile of detect_58.v failed with 1 errors.
+# Compile of detect_58.v failed with 1 errors.
+# Compile of detect_58.v failed with 1 errors.
+# Compile of detect_58.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of detect_58_next.v failed with 1 errors.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# ** Error: (vsim-3037) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(29): Missing instance name in instantiation of 'mux_quad4_1'.
+#         Region: /detect_58_next
+# Error loading design
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next_t
+# vsim work.detect_58_next_t 
+# Loading work.detect_58_next_t
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+# ** Error: (vsim-3054) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(16): port 'In' must be 16 or 64-bit wide, (actual 36-bit).
+#         Region: /detect_58_next_t/dt/m_n0[0]
+# ** Error: (vsim-3054) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(26): port 'In' must be 16 or 64-bit wide, (actual 36-bit).
+#         Region: /detect_58_next_t/dt/m_n1[0]
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(29): [TFMPC] - Too few port connections. Expected 6, found 4.
+#         Region: /detect_58_next_t/dt/m4
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(29): [TFMPC] - Missing connection for port 'InD'.
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(29): [TFMPC] - Missing connection for port 'InC'.
+# Error loading design
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+# ** Error: (vsim-3054) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(45): port 'In' must be 16 or 64-bit wide, (actual 36-bit).
+#         Region: /detect_58_next/m_n1[0]
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(48): [TFMPC] - Too few port connections. Expected 6, found 4.
+#         Region: /detect_58_next/m4
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(48): [TFMPC] - Missing connection for port 'InD'.
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(48): [TFMPC] - Missing connection for port 'InC'.
+# Error loading design
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Too few port connections. Expected 6, found 4.
+#         Region: /detect_58_next/m4
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InD'.
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InC'.
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Too few port connections. Expected 6, found 4.
+#         Region: /detect_58_next/m4
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InD'.
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InC'.
+run -all
+run -all
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Too few port connections. Expected 6, found 4.
+#         Region: /detect_58_next/m4
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InD'.
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v(47): [TFMPC] - Missing connection for port 'InC'.
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of detect_58_next_t.v failed with 1 errors.
+# Compile of detect_58_next_t.v was successful with warnings.
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of detect_58_next_t.v was successful with warnings.
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+exit -sim
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+exit -sim
+exit -sim
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+restart -f
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of detect_58.v was successful with warnings.
+# Compile of mux16_1.v was successful with warnings.
+# Compile of detect_58_next.v was successful with warnings.
+# Compile of detect_58_next_t.v was successful with warnings.
+# 24 compiles, 0 failed with no errors. 
+vsim work.detect_58_next
+# vsim work.detect_58_next 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.mux_quad4_1
+run -all
+run -all
+restart -f
+run -all

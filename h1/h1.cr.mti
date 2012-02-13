@@ -34,6 +34,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	mux4_1_t
 
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16_t.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module add16_t
+
+Top level modules:
+	add16_t
+
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux_quad4_1_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux_quad4_1_t.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
@@ -79,6 +88,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	mux2_1
 
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next_t.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module detect_58_next_t
+
+Top level modules:
+	detect_58_next_t
+
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux4_1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux4_1.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
@@ -105,6 +123,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	add16
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux16_1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/mux16_1.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module mux16_1
+
+Top level modules:
+	mux16_1
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor2.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -142,6 +169,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	not1
 
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58_next.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module detect_58_next
+
+Top level modules:
+	detect_58_next
+
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nand2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nand2.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
@@ -159,6 +195,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	nand3
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/detect_58.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module detect_58
+
+Top level modules:
+	detect_58
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
