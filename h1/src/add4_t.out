@@ -1,0 +1,8 @@
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)

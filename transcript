@@ -34135,3 +34135,1053 @@ run -all
 # (A,B,Cin)= (0, 1, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
 # (A,B,Cin)= (1, 1, 1)	 Expected: (S=1, Cout=1) Got: (1, 1)
 exit -sim
+# Compile of add4.v was successful with warnings.
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v failed with 1 errors.
+# 18 compiles, 1 failed with 1 error. 
+# Compile of add4_t.v failed with 1 errors.
+# Compile of add4_t.v was successful with warnings.
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  8, 0)	 (SUM,CO)::Expected:(         8,0) Got:( 8, 0)
+# (A,B,CI)=( 1,  7, 1)	 (SUM,CO)::Expected:(         8,0) Got:( 9, 0)
+# (A,B,CI)=( 2,  6, 0)	 (SUM,CO)::Expected:(         8,0) Got:( 8, 0)
+# (A,B,CI)=( 3,  5, 1)	 (SUM,CO)::Expected:(         8,0) Got:( 9, 0)
+# (A,B,CI)=( 4,  4, 0)	 (SUM,CO)::Expected:(         8,0) Got:( 8, 0)
+# (A,B,CI)=( 5,  3, 1)	 (SUM,CO)::Expected:(         8,0) Got:( 9, 0)
+# (A,B,CI)=( 6,  2, 0)	 (SUM,CO)::Expected:(         8,0) Got:( 8, 0)
+# (A,B,CI)=( 7,  1, 1)	 (SUM,CO)::Expected:(         8,0) Got:( 9, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# 18 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  8, 0)	 (SUM,CO)::Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 1,  7, 1)	 (SUM,CO)::Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 2,  6, 0)	 (SUM,CO)::Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 3,  5, 1)	 (SUM,CO)::Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 4,  4, 0)	 (SUM,CO)::Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 5,  3, 1)	 (SUM,CO)::Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 6,  2, 0)	 (SUM,CO)::Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 7,  1, 1)	 (SUM,CO)::Expected: (         8,0) Got: ( 9, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# 18 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  8, 0)	 (SUM,CO):: Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 1,  7, 1)	 (SUM,CO):: Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 2,  6, 0)	 (SUM,CO):: Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 3,  5, 1)	 (SUM,CO):: Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 4,  4, 0)	 (SUM,CO):: Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 5,  3, 1)	 (SUM,CO):: Expected: (         8,0) Got: ( 9, 0)
+# (A,B,CI)=( 6,  2, 0)	 (SUM,CO):: Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 7,  1, 1)	 (SUM,CO):: Expected: (         8,0) Got: ( 9, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# 18 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  8, 0)	 (SUM,CO):: Expected: (         8,0) Got: ( 8, 0)
+# (A,B,CI)=( 1,  6, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 8, 0)
+# (A,B,CI)=( 2,  4, 0)	 (SUM,CO):: Expected: (         6,0) Got: ( 6, 0)
+# (A,B,CI)=( 3,  2, 1)	 (SUM,CO):: Expected: (         5,0) Got: ( 6, 0)
+# (A,B,CI)=( 4,  0, 0)	 (SUM,CO):: Expected: (         4,0) Got: ( 4, 0)
+# (A,B,CI)=( 5, 14, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 4, 1)
+# (A,B,CI)=( 6, 12, 0)	 (SUM,CO):: Expected: (         2,1) Got: ( 2, 1)
+# (A,B,CI)=( 7, 10, 1)	 (SUM,CO):: Expected: (         1,1) Got: ( 2, 1)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# 18 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 2,  1, 1)	 (SUM,CO):: Expected: (         3,0) Got: ( 4, 0)
+# (A,B,CI)=( 4,  2, 0)	 (SUM,CO):: Expected: (         6,0) Got: ( 6, 0)
+# (A,B,CI)=( 6,  3, 1)	 (SUM,CO):: Expected: (         9,0) Got: (10, 0)
+# (A,B,CI)=( 8,  4, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=(10,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: ( 0, 1)
+# (A,B,CI)=(12,  6, 0)	 (SUM,CO):: Expected: (         2,1) Got: ( 2, 1)
+# (A,B,CI)=(14,  7, 1)	 (SUM,CO):: Expected: (         5,1) Got: ( 6, 1)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# 18 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)
+run -all
+restart -f
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)
+# Compile of add16.v was successful with warnings.
+exit- sim
+# invalid command name "exit-"
+exit -sim
+# Compile of add16_t.v was successful with warnings.
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+run -all
+# (A,B,CI)=(  127,     0, 0)	 (SUM,CO):: Expected: (       127,0) Got: (    z, 0)
+# (A,B,CI)=(  508,    71, 1)	 (SUM,CO):: Expected: (       580,0) Got: (    z, 0)
+# (A,B,CI)=( 2032,   142, 0)	 (SUM,CO):: Expected: (      2174,0) Got: (    z, 0)
+# (A,B,CI)=( 8128,   213, 1)	 (SUM,CO):: Expected: (      8342,0) Got: (    z, 0)
+# (A,B,CI)=(32512,   284, 0)	 (SUM,CO):: Expected: (     32796,0) Got: (    z, 0)
+# (A,B,CI)=(64512,   355, 1)	 (SUM,CO):: Expected: (     64868,0) Got: (    z, x)
+# (A,B,CI)=(61440,   426, 0)	 (SUM,CO):: Expected: (     61866,0) Got: (    z, x)
+# (A,B,CI)=(49152,   497, 1)	 (SUM,CO):: Expected: (     49650,0) Got: (    z, 0)
+exit -sim
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a0
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a1
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a3
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a3
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a40
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a40
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a41
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(11): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a41
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a42
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(12): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a42
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'SUM'.
+#         Region: /add16_t/adder/a43
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v(13): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'CI'.
+#         Region: /add16_t/adder/a43
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(  127,     0, 0)	 (SUM,CO):: Expected: (       127,0) Got: (  127, 0)
+# (A,B,CI)=(  508,    71, 1)	 (SUM,CO):: Expected: (       580,0) Got: (  580, 0)
+# (A,B,CI)=( 2032,   142, 0)	 (SUM,CO):: Expected: (      2174,0) Got: ( 2174, 0)
+# (A,B,CI)=( 8128,   213, 1)	 (SUM,CO):: Expected: (      8342,0) Got: ( 8342, 0)
+# (A,B,CI)=(32512,   284, 0)	 (SUM,CO):: Expected: (     32796,0) Got: (32796, 0)
+# (A,B,CI)=(64512,   355, 1)	 (SUM,CO):: Expected: (     64868,0) Got: (64868, 0)
+# (A,B,CI)=(61440,   426, 0)	 (SUM,CO):: Expected: (     61866,0) Got: (61866, 0)
+# (A,B,CI)=(49152,   497, 1)	 (SUM,CO):: Expected: (     49650,0) Got: (49650, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(  127,     0, 0)	 (SUM,CO):: Expected: (       127,0) Got: (  127, 0)
+# (A,B,CI)=( 1016,    71, 1)	 (SUM,CO):: Expected: (      1088,0) Got: ( 1088, 0)
+# (A,B,CI)=( 8128,   142, 0)	 (SUM,CO):: Expected: (      8270,0) Got: ( 8270, 0)
+# (A,B,CI)=(65024,   213, 1)	 (SUM,CO):: Expected: (     65238,0) Got: (65238, 0)
+# (A,B,CI)=(61440,   284, 0)	 (SUM,CO):: Expected: (     61724,0) Got: (61724, 0)
+# (A,B,CI)=(32768,   355, 1)	 (SUM,CO):: Expected: (     33124,0) Got: (33124, 0)
+# (A,B,CI)=(    0,   426, 0)	 (SUM,CO):: Expected: (       426,0) Got: (  426, 0)
+# (A,B,CI)=(    0,   497, 1)	 (SUM,CO):: Expected: (       498,0) Got: (  498, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim
+# No design specified
+# can't read "Startup(ok)": no such variable
+# Load canceled
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(  127,     0, 0)	 (SUM,CO):: Expected: (       127,0) Got: (  127, 0)
+# (A,B,CI)=(  508,    71, 1)	 (SUM,CO):: Expected: (       580,0) Got: (  580, 0)
+# (A,B,CI)=( 2032,   142, 0)	 (SUM,CO):: Expected: (      2174,0) Got: ( 2174, 0)
+# (A,B,CI)=( 8128,   213, 1)	 (SUM,CO):: Expected: (      8342,0) Got: ( 8342, 0)
+# (A,B,CI)=(32512,   284, 0)	 (SUM,CO):: Expected: (     32796,0) Got: (32796, 0)
+# (A,B,CI)=(64512,   355, 1)	 (SUM,CO):: Expected: (     64868,0) Got: (64868, 0)
+# (A,B,CI)=(61440,   426, 0)	 (SUM,CO):: Expected: (     61866,0) Got: (61866, 0)
+# (A,B,CI)=(49152,   497, 1)	 (SUM,CO):: Expected: (     49650,0) Got: (49650, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(  127,    71, 0)	 (SUM,CO):: Expected: (       198,0) Got: (  198, 0)
+# (A,B,CI)=(  508,   568, 1)	 (SUM,CO):: Expected: (      1077,0) Got: ( 1077, 0)
+# (A,B,CI)=( 2032,  4544, 0)	 (SUM,CO):: Expected: (      6576,0) Got: ( 6576, 0)
+# (A,B,CI)=( 8128, 36352, 1)	 (SUM,CO):: Expected: (     44481,0) Got: (44481, 0)
+# (A,B,CI)=(32512, 28672, 0)	 (SUM,CO):: Expected: (     61184,0) Got: (61184, 0)
+# (A,B,CI)=(64512, 32768, 1)	 (SUM,CO):: Expected: (     31745,1) Got: (31745, 1)
+# (A,B,CI)=(61440,     0, 0)	 (SUM,CO):: Expected: (     61440,0) Got: (61440, 0)
+# (A,B,CI)=(49152,     0, 1)	 (SUM,CO):: Expected: (     49153,0) Got: (49153, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(12701,    71, 0)	 (SUM,CO):: Expected: (     12772,0) Got: (12772, 0)
+# (A,B,CI)=(50804,   568, 1)	 (SUM,CO):: Expected: (     51373,0) Got: (51373, 0)
+# (A,B,CI)=( 6608,  4544, 0)	 (SUM,CO):: Expected: (     11152,0) Got: (11152, 0)
+# (A,B,CI)=(26432, 36352, 1)	 (SUM,CO):: Expected: (     62785,0) Got: (62785, 0)
+# (A,B,CI)=(40192, 28672, 0)	 (SUM,CO):: Expected: (      3328,1) Got: ( 3328, 1)
+# (A,B,CI)=(29696, 32768, 1)	 (SUM,CO):: Expected: (     62465,0) Got: (62465, 0)
+# (A,B,CI)=(53248,     0, 0)	 (SUM,CO):: Expected: (     53248,0) Got: (53248, 0)
+# (A,B,CI)=(16384,     0, 1)	 (SUM,CO):: Expected: (     16385,0) Got: (16385, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(12701,    74, 0)	 (SUM,CO):: Expected: (     12775,0) Got: (12775, 0)
+# (A,B,CI)=(50804,   592, 1)	 (SUM,CO):: Expected: (     51397,0) Got: (51397, 0)
+# (A,B,CI)=( 6608,  4736, 0)	 (SUM,CO):: Expected: (     11344,0) Got: (11344, 0)
+# (A,B,CI)=(26432, 37888, 1)	 (SUM,CO):: Expected: (     64321,0) Got: (64321, 0)
+# (A,B,CI)=(40192, 40960, 0)	 (SUM,CO):: Expected: (     15616,1) Got: (15616, 1)
+# (A,B,CI)=(29696,     0, 1)	 (SUM,CO):: Expected: (     29697,0) Got: (29697, 0)
+# (A,B,CI)=(53248,     0, 0)	 (SUM,CO):: Expected: (     53248,0) Got: (53248, 0)
+# (A,B,CI)=(16384,     0, 1)	 (SUM,CO):: Expected: (     16385,0) Got: (16385, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(12701,  1027, 0)	 (SUM,CO):: Expected: (     13728,0) Got: (13728, 0)
+# (A,B,CI)=(50804,  2054, 1)	 (SUM,CO):: Expected: (     52859,0) Got: (52859, 0)
+# (A,B,CI)=( 6608,  4108, 0)	 (SUM,CO):: Expected: (     10716,0) Got: (10716, 0)
+# (A,B,CI)=(26432,  8216, 1)	 (SUM,CO):: Expected: (     34649,0) Got: (34649, 0)
+# (A,B,CI)=(40192, 16432, 0)	 (SUM,CO):: Expected: (     56624,0) Got: (56624, 0)
+# (A,B,CI)=(29696, 32864, 1)	 (SUM,CO):: Expected: (     62561,0) Got: (62561, 0)
+# (A,B,CI)=(53248,   192, 0)	 (SUM,CO):: Expected: (     53440,0) Got: (53440, 0)
+# (A,B,CI)=(16384,   384, 1)	 (SUM,CO):: Expected: (     16769,0) Got: (16769, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(12701,  2027, 0)	 (SUM,CO):: Expected: (     14728,0) Got: (14728, 0)
+# (A,B,CI)=(50804,  3054, 1)	 (SUM,CO):: Expected: (     53859,0) Got: (53859, 0)
+# (A,B,CI)=( 6608,  5108, 0)	 (SUM,CO):: Expected: (     11716,0) Got: (11716, 0)
+# (A,B,CI)=(26432,  9216, 1)	 (SUM,CO):: Expected: (     35649,0) Got: (35649, 0)
+# (A,B,CI)=(40192, 17432, 0)	 (SUM,CO):: Expected: (     57624,0) Got: (57624, 0)
+# (A,B,CI)=(29696, 33864, 1)	 (SUM,CO):: Expected: (     63561,0) Got: (63561, 0)
+# (A,B,CI)=(53248,  1192, 0)	 (SUM,CO):: Expected: (     54440,0) Got: (54440, 0)
+# (A,B,CI)=(16384,  1384, 1)	 (SUM,CO):: Expected: (     17769,0) Got: (17769, 0)
+# Compile of clkrst.v was successful with warnings.
+# Compile of dff.v was successful with warnings.
+# Compile of mux2_1.v was successful with warnings.
+# Compile of nand2.v was successful with warnings.
+# Compile of nand3.v was successful with warnings.
+# Compile of nor2.v was successful with warnings.
+# Compile of nor3.v was successful with warnings.
+# Compile of not1.v was successful with warnings.
+# Compile of xor2.v was successful with warnings.
+# Compile of xor3.v was successful with warnings.
+# Compile of mux2_1_t.v was successful with warnings.
+# Compile of mux4_1_t.v was successful with warnings.
+# Compile of mux4_1.v was successful with warnings.
+# Compile of mux_quad4_1_t.v was successful with warnings.
+# Compile of fa.v was successful with warnings.
+# Compile of fa_t.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of add4_t.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add16_t
+# Loading work.add16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=(12701,  6027, 0)	 (SUM,CO):: Expected: (     18728,0) Got: (18728, 0)
+# (A,B,CI)=(50804,  7054, 1)	 (SUM,CO):: Expected: (     57859,0) Got: (57859, 0)
+# (A,B,CI)=( 6608,  9108, 0)	 (SUM,CO):: Expected: (     15716,0) Got: (15716, 0)
+# (A,B,CI)=(26432, 13216, 1)	 (SUM,CO):: Expected: (     39649,0) Got: (39649, 0)
+# (A,B,CI)=(40192, 21432, 0)	 (SUM,CO):: Expected: (     61624,0) Got: (61624, 0)
+# (A,B,CI)=(29696, 37864, 1)	 (SUM,CO):: Expected: (      2025,1) Got: ( 2025, 1)
+# (A,B,CI)=(53248,  5192, 0)	 (SUM,CO):: Expected: (     58440,0) Got: (58440, 0)
+# (A,B,CI)=(16384,  5384, 1)	 (SUM,CO):: Expected: (     21769,0) Got: (21769, 0)
+restart -f
+run -all
+# (A,B,CI)=(12701,  6027, 0)	 (SUM,CO):: Expected: (     18728,0) Got: (18728, 0)
+# (A,B,CI)=(50804,  7054, 1)	 (SUM,CO):: Expected: (     57859,0) Got: (57859, 0)
+# (A,B,CI)=( 6608,  9108, 0)	 (SUM,CO):: Expected: (     15716,0) Got: (15716, 0)
+# (A,B,CI)=(26432, 13216, 1)	 (SUM,CO):: Expected: (     39649,0) Got: (39649, 0)
+# (A,B,CI)=(40192, 21432, 0)	 (SUM,CO):: Expected: (     61624,0) Got: (61624, 0)
+# (A,B,CI)=(29696, 37864, 1)	 (SUM,CO):: Expected: (      2025,1) Got: ( 2025, 1)
+# (A,B,CI)=(53248,  5192, 0)	 (SUM,CO):: Expected: (     58440,0) Got: (58440, 0)
+# (A,B,CI)=(16384,  5384, 1)	 (SUM,CO):: Expected: (     21769,0) Got: (21769, 0)

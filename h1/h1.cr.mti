@@ -88,6 +88,24 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	mux4_1
 
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4_t.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module add4_t
+
+Top level modules:
+	add4_t
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add16.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module add16
+
+Top level modules:
+	add16
+
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor2.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
@@ -96,6 +114,15 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	nor2
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/fa_t.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module fa_t
+
+Top level modules:
+	fa_t
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor3.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/nor3.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -132,5 +159,14 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	nand3
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/add4.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module add4
+
+Top level modules:
+	add4
 
 } {} {}}
