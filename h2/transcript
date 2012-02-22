@@ -1320,3 +1320,250 @@ run -all
 # Compile of cla_logic.v was successful with warnings.
 # Compile of add1.v was successful with warnings.
 # 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# 12 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# 12 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+# Compile of add16_t.v was successful with warnings.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# ** Error: (vsim-3033) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): Instantiation of 'add' failed. The design unit was not found.
+#         Region: /add16_t/a16
+#         Searched libraries:
+#             /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# Error loading design
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16_t.v(7): [PCDPC] - Port size (1 or 1) does not match connection size (16) for port 'CI'.
+#         Region: /add16_t/a16
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[0]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[1]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[2]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[3]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[0]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[1]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[2]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[3]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[0]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[1]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[2]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Warning: (vsim-3017) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Too few port connections. Expected 7, found 6.
+#         Region: /add16_t/a16/a[3]
+# ** Warning: (vsim-3722) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(24): [TFMPC] - Missing connection for port 'Pgroup'.
+# ** Fatal: (vsim-3365) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v(26): Too many port connections. Expected 6, found 7.
+#    Time: 0 ns  Iteration: 0  Instance: /add16_t/a16/clo File: /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/cla_logic.v
+# FATAL ERROR while loading design
+# Error loading design
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Break at /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16_t.v line 16
+# SIGINT caught: .source.marks 0

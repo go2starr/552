@@ -1,11 +1,11 @@
-/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v
+/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add4.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add4.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
 Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shift16
+-- Compiling module add4
 
 Top level modules:
-	shift16
+	add4
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/cla_logic.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/cla_logic.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -16,14 +16,41 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	cla_logic
 
-} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
 Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shift8
+-- Compiling module shift1
 
 Top level modules:
-	shift8
+	shift1
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift2
+
+Top level modules:
+	shift2
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift16_t
+
+Top level modules:
+	shift16_t
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module add16
+
+Top level modules:
+	add16
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -33,6 +60,24 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	shift4
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift16
+
+Top level modules:
+	shift16
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift8
+
+Top level modules:
+	shift8
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux16_2_1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux16_2_1.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -60,32 +105,5 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 
 Top level modules:
 	ALU
-
-} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v
-** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
-No such file or directory. (errno = ENOENT)
-Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shift1
-
-Top level modules:
-	shift1
-
-} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v
-** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
-No such file or directory. (errno = ENOENT)
-Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shift16_t
-
-Top level modules:
-	shift16_t
-
-} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v
-** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
-No such file or directory. (errno = ENOENT)
-Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shift2
-
-Top level modules:
-	shift2
 
 } {} {}}

@@ -2,21 +2,43 @@ m255
 cModel Technology
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
 vadd1
-I3^M:No;:JQdib41?_O3fE0
-V0F?43G>zK;XM>zM<0H=WW3
+InB^:J=4jjBTF5f=iNUOUf0
+VDab6=Qa]SU?I>dD<zKb@D3
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329892309
+w1329895604
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add1.v
 L0 2
 OE;L;5.8b;17
 r1
 31
 o-work work
-vadd4
-I^JzGC7DmWB>U0eTSnJSCf3
-Vaz<RC>`ZFfEN0kV;F4iTe0
+vadd16
+IhnF4:l=b8`^0zj]BdT<;[2
+Vd@J@Z^=ZeE^fzMJ80kUnm3
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329894101
+w1329896481
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
+vadd16_t
+I2fFLj_dH>aC<NPYR<eBeo0
+V17JUfm=^jZIhK_C]9oX?C1
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329897036
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16_t.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
+vadd4
+INbCJCmgJY??;W4N<A9EbD2
+Vd^0TmnV2BkI<OJlf1_?HT1
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329896657
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add4.v
 L0 2
 OE;L;5.8b;17
@@ -36,10 +58,10 @@ r1
 o-work work
 n@a@l@u
 vcla_logic
-Ijz[:7;E_eX6]Rm<f7dj3Y0
+I>jAaHHW_d][WlGIS>o4BK1
 Vk_S1n5Komne[m84hf=]BR0
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329893781
+w1329895466
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/cla_logic.v
 L0 2
 OE;L;5.8b;17
