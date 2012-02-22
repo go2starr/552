@@ -1,11 +1,20 @@
-/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shiftx.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shiftx.v
+/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
 Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module shiftx
+-- Compiling module shift1
 
 Top level modules:
-	shiftx
+	shift1
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift1
+
+Top level modules:
+	shift1
 
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux16_2_1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux16_2_1.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
@@ -16,13 +25,22 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	mux16_2_1
 
-} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux2_1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux2_1.v
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
 Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
--- Compiling module mux2_1
+-- Compiling module shift1
 
 Top level modules:
-	mux2_1
+	shift1
+
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module shift1
+
+Top level modules:
+	shift1
 
 } {} {}}

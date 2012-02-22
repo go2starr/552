@@ -86,3 +86,81 @@
 # Compile of mux2_1.v was successful with warnings.
 # Compile of shift1.v was successful with warnings.
 # 4 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# 2 compiles, 2 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# 5 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# 6 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# 6 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v failed with 1 errors.
+# 6 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# 6 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# 7 compiles, 0 failed with no errors. 
+vsim work.shift16_t
+# vsim work.shift16_t 
+# Loading work.shift16_t
+# Loading work.shift16
+# ** Error: (vsim-3033) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v(23): Instantiation of 'shift8' failed. The design unit was not found.
+#         Region: /shift16_t/s16
+#         Searched libraries:
+#             work
+# ** Error: (vsim-3033) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v(24): Instantiation of 'shift4' failed. The design unit was not found.
+#         Region: /shift16_t/s16
+#         Searched libraries:
+#             work
+# ** Error: (vsim-3033) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v(25): Instantiation of 'shift2' failed. The design unit was not found.
+#         Region: /shift16_t/s16
+#         Searched libraries:
+#             work
+# Loading work.shift1
+# Loading work.mux16_2_1
+# Error loading design

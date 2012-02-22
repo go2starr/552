@@ -21,31 +21,29 @@ module shift1(
    always @(*) begin
       case (op)
         OP_ROL: begin
-           out[15:1] = in[14:0];
-           out[0]    = in[15];
+           out[15:4] = in[11:0];
+           out[3:0]  = in[15:12];
         end
 
         OP_SLL: begin
-           out[15:1] = in[14:0];
-           out[0]    = 0;
+           out[15:4] = in[11:0];
+           out[3:0]  = 0;
         end
 
         OP_ROR: begin
-           out[14:0] = in[15:1];
-           out[15]   = in[0];
+           out[11:0]  = in[15:4];
+           out[15:12] = in[3:0];
         end
 
         OP_ASR: begin
-           out[14:0] = in[15:2];
+           out[11:0] = in[15:2];
            out[15]   = in[15];
+           out[14]   = in[15];
+           out[13]   = in[15];
+           out[12]   = in[15];
         end        
       endcase // case (op)
    end
-   
-
-   
-   
-
 endmodule // shiftx
 
      
