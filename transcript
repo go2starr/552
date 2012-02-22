@@ -976,3 +976,5217 @@ run -all
 #     0 + 37768 + 0 = 37768
 #     0 + 37768 + 1 = 37769
 # All tests complete
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v failed with 1 errors.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# 13 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# ** Warning: (vsim-3015) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v(48): [PCDPC] - Port size (2 or 2) does not match connection size (3) for port 'Op'.
+#         Region: /ALU_t/alu/shifter
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# Testing shift left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe150 Got: 0xxxxx
+# ERR: Expected: 0x1500 Got: 0xxxxx
+# ERR: Expected: 0x5000 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7b0 Got: 0xxxxx
+# ERR: Expected: 0x7b00 Got: 0xxxxx
+# ERR: Expected: 0xb000 Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0001 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x000e Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x03e1 Got: 0xxxxx
+# ERR: Expected: 0x003e Got: 0xxxxx
+# ERR: Expected: 0x0003 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xffa7 Got: 0xxxxx
+# ERR: Expected: 0xfffa Got: 0xxxxx
+# ERR: Expected: 0xffff Got: 0xxxxx
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v failed with 1 errors.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v failed with 1 errors.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of ALU.v failed with 1 errors.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# Testing shift left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe150 Got: 0xxxxx
+# ERR: Expected: 0x1500 Got: 0xxxxx
+# ERR: Expected: 0x5000 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7b0 Got: 0xxxxx
+# ERR: Expected: 0x7b00 Got: 0xxxxx
+# ERR: Expected: 0xb000 Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0001 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x000e Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x03e1 Got: 0xxxxx
+# ERR: Expected: 0x003e Got: 0xxxxx
+# ERR: Expected: 0x0003 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xffa7 Got: 0xxxxx
+# ERR: Expected: 0xfffa Got: 0xxxxx
+# ERR: Expected: 0xffff Got: 0xxxxx
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# ERR: Expected: 0x0018 Got: 0xdead
+# ERR: Expected: 0x0180 Got: 0xdead
+# ERR: Expected: 0x1800 Got: 0xdead
+# ERR: Expected: 0x8001 Got: 0xdead
+# ERR: Expected: 0x00ea Got: 0xdead
+# ERR: Expected: 0x0ea0 Got: 0xdead
+# ERR: Expected: 0xea00 Got: 0xdead
+# ERR: Expected: 0xa00e Got: 0xdead
+# ERR: Expected: 0x3e15 Got: 0xdead
+# ERR: Expected: 0xe153 Got: 0xdead
+# ERR: Expected: 0x153e Got: 0xdead
+# ERR: Expected: 0x53e1 Got: 0xdead
+# ERR: Expected: 0xfa7b Got: 0xdead
+# ERR: Expected: 0xa7bf Got: 0xdead
+# ERR: Expected: 0x7bfa Got: 0xdead
+# ERR: Expected: 0xbfa7 Got: 0xdead
+# Testing shift left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe150 Got: 0xxxxx
+# ERR: Expected: 0x1500 Got: 0xxxxx
+# ERR: Expected: 0x5000 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7b0 Got: 0xxxxx
+# ERR: Expected: 0x7b00 Got: 0xxxxx
+# ERR: Expected: 0xb000 Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0001 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x000e Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x03e1 Got: 0xxxxx
+# ERR: Expected: 0x003e Got: 0xxxxx
+# ERR: Expected: 0x0003 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xffa7 Got: 0xxxxx
+# ERR: Expected: 0xfffa Got: 0xxxxx
+# ERR: Expected: 0xffff Got: 0xxxxx
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# Testing shift left...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x8000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0xa000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0xe150 Got: 0xxxxx
+# ERR: Expected: 0x1500 Got: 0xxxxx
+# ERR: Expected: 0x5000 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xa7b0 Got: 0xxxxx
+# ERR: Expected: 0x7b00 Got: 0xxxxx
+# ERR: Expected: 0xb000 Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x8001 Got: 0xxxxx
+# ERR: Expected: 0x1800 Got: 0xxxxx
+# ERR: Expected: 0x0180 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0xa00e Got: 0xxxxx
+# ERR: Expected: 0xea00 Got: 0xxxxx
+# ERR: Expected: 0x0ea0 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x53e1 Got: 0xxxxx
+# ERR: Expected: 0x153e Got: 0xxxxx
+# ERR: Expected: 0xe153 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xbfa7 Got: 0xxxxx
+# ERR: Expected: 0x7bfa Got: 0xxxxx
+# ERR: Expected: 0xa7bf Got: 0xxxxx
+# Testing rotate right...
+# ERR: Expected: 0x0018 Got: 0xxxxx
+# ERR: Expected: 0x0001 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x00ea Got: 0xxxxx
+# ERR: Expected: 0x000e Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x0000 Got: 0xxxxx
+# ERR: Expected: 0x3e15 Got: 0xxxxx
+# ERR: Expected: 0x03e1 Got: 0xxxxx
+# ERR: Expected: 0x003e Got: 0xxxxx
+# ERR: Expected: 0x0003 Got: 0xxxxx
+# ERR: Expected: 0xfa7b Got: 0xxxxx
+# ERR: Expected: 0xffa7 Got: 0xxxxx
+# ERR: Expected: 0xfffa Got: 0xxxxx
+# ERR: Expected: 0xffff Got: 0xxxxx
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# ** Warning: (vsim-PLI-3003) /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU_t.v(122): [TOFD] - System task or function '$DISPLAY' is not defined.
+#         Region: /ALU_t
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# ERR: Expected: 0x01de Got: 0xffff
+# ERR: Expected: 0x01df Got: 0x01de
+# ERR: Expected: 0x095b Got: 0x01df
+# ERR: Expected: 0x095c Got: 0x095b
+# ERR: Expected: 0x7cab Got: 0x095c
+# ERR: Expected: 0x7cac Got: 0x7cab
+# ERR: Expected: 0xb1ab Got: 0x7cac
+# ERR: Expected: 0xb1ac Got: 0xb1ab
+# ERR: Expected: 0x02de Got: 0xb1ac
+# ERR: Expected: 0x02df Got: 0x02de
+# ERR: Expected: 0x0a5b Got: 0x02df
+# ERR: Expected: 0x0a5c Got: 0x0a5b
+# ERR: Expected: 0x7dab Got: 0x0a5c
+# ERR: Expected: 0x7dac Got: 0x7dab
+# ERR: Expected: 0xb2ab Got: 0x7dac
+# ERR: Expected: 0xb2ac Got: 0xb2ab
+# ERR: Expected: 0x04de Got: 0xb2ac
+# ERR: Expected: 0x04df Got: 0x04de
+# ERR: Expected: 0x0c5b Got: 0x04df
+# ERR: Expected: 0x0c5c Got: 0x0c5b
+# ERR: Expected: 0x7fab Got: 0x0c5c
+# ERR: Expected: 0x7fac Got: 0x7fab
+# ERR: Expected: 0xb4ab Got: 0x7fac
+# ERR: Expected: 0xb4ac Got: 0xb4ab
+# ERR: Expected: 0x08de Got: 0xb4ac
+# ERR: Expected: 0x08df Got: 0x08de
+# ERR: Expected: 0x105b Got: 0x08df
+# ERR: Expected: 0x105c Got: 0x105b
+# ERR: Expected: 0x83ab Got: 0x105c
+# ERR: Expected: 0x83ac Got: 0x83ab
+# ERR: Expected: 0xb8ab Got: 0x83ac
+# ERR: Expected: 0xb8ac Got: 0xb8ab
+# ERR: Expected: 0x10de Got: 0xb8ac
+# ERR: Expected: 0x10df Got: 0x10de
+# ERR: Expected: 0x185b Got: 0x10df
+# ERR: Expected: 0x185c Got: 0x185b
+# ERR: Expected: 0x8bab Got: 0x185c
+# ERR: Expected: 0x8bac Got: 0x8bab
+# ERR: Expected: 0xc0ab Got: 0x8bac
+# ERR: Expected: 0xc0ac Got: 0xc0ab
+# ERR: Expected: 0x20de Got: 0xc0ac
+# ERR: Expected: 0x20df Got: 0x20de
+# ERR: Expected: 0x285b Got: 0x20df
+# ERR: Expected: 0x285c Got: 0x285b
+# ERR: Expected: 0x9bab Got: 0x285c
+# ERR: Expected: 0x9bac Got: 0x9bab
+# ERR: Expected: 0xd0ab Got: 0x9bac
+# ERR: Expected: 0xd0ac Got: 0xd0ab
+# ERR: Expected: 0x40de Got: 0xd0ac
+# ERR: Expected: 0x40df Got: 0x40de
+# ERR: Expected: 0x485b Got: 0x40df
+# ERR: Expected: 0x485c Got: 0x485b
+# ERR: Expected: 0xbbab Got: 0x485c
+# ERR: Expected: 0xbbac Got: 0xbbab
+# ERR: Expected: 0xf0ab Got: 0xbbac
+# ERR: Expected: 0xf0ac Got: 0xf0ab
+# ERR: Expected: 0x80de Got: 0xf0ac
+# ERR: Expected: 0x80df Got: 0x80de
+# ERR: Expected: 0x885b Got: 0x80df
+# ERR: Expected: 0x885c Got: 0x885b
+# ERR: Expected: 0xfbab Got: 0x885c
+# ERR: Expected: 0xfbac Got: 0xfbab
+# ERR: Expected: 0x30ab Got: 0xfbac
+# ERR: Expected: 0x30ac Got: 0x30ab
+# ERR: Expected: 0x00de Got: 0x30ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# ERR: Expected: 0x01de Got: 0xffff
+# ERR: Expected: 0x01df Got: 0x01de
+# ERR: Expected: 0x095b Got: 0x01df
+# ERR: Expected: 0x095c Got: 0x095b
+# ERR: Expected: 0x7cab Got: 0x095c
+# ERR: Expected: 0x7cac Got: 0x7cab
+# ERR: Expected: 0xb1ab Got: 0x7cac
+# ERR: Expected: 0xb1ac Got: 0xb1ab
+# ERR: Expected: 0x02de Got: 0xb1ac
+# ERR: Expected: 0x02df Got: 0x02de
+# ERR: Expected: 0x0a5b Got: 0x02df
+# ERR: Expected: 0x0a5c Got: 0x0a5b
+# ERR: Expected: 0x7dab Got: 0x0a5c
+# ERR: Expected: 0x7dac Got: 0x7dab
+# ERR: Expected: 0xb2ab Got: 0x7dac
+# ERR: Expected: 0xb2ac Got: 0xb2ab
+# ERR: Expected: 0x04de Got: 0xb2ac
+# ERR: Expected: 0x04df Got: 0x04de
+# ERR: Expected: 0x0c5b Got: 0x04df
+# ERR: Expected: 0x0c5c Got: 0x0c5b
+# ERR: Expected: 0x7fab Got: 0x0c5c
+# ERR: Expected: 0x7fac Got: 0x7fab
+# ERR: Expected: 0xb4ab Got: 0x7fac
+# ERR: Expected: 0xb4ac Got: 0xb4ab
+# ERR: Expected: 0x08de Got: 0xb4ac
+# ERR: Expected: 0x08df Got: 0x08de
+# ERR: Expected: 0x105b Got: 0x08df
+# ERR: Expected: 0x105c Got: 0x105b
+# ERR: Expected: 0x83ab Got: 0x105c
+# ERR: Expected: 0x83ac Got: 0x83ab
+# ERR: Expected: 0xb8ab Got: 0x83ac
+# ERR: Expected: 0xb8ac Got: 0xb8ab
+# ERR: Expected: 0x10de Got: 0xb8ac
+# ERR: Expected: 0x10df Got: 0x10de
+# ERR: Expected: 0x185b Got: 0x10df
+# ERR: Expected: 0x185c Got: 0x185b
+# ERR: Expected: 0x8bab Got: 0x185c
+# ERR: Expected: 0x8bac Got: 0x8bab
+# ERR: Expected: 0xc0ab Got: 0x8bac
+# ERR: Expected: 0xc0ac Got: 0xc0ab
+# ERR: Expected: 0x20de Got: 0xc0ac
+# ERR: Expected: 0x20df Got: 0x20de
+# ERR: Expected: 0x285b Got: 0x20df
+# ERR: Expected: 0x285c Got: 0x285b
+# ERR: Expected: 0x9bab Got: 0x285c
+# ERR: Expected: 0x9bac Got: 0x9bab
+# ERR: Expected: 0xd0ab Got: 0x9bac
+# ERR: Expected: 0xd0ac Got: 0xd0ab
+# ERR: Expected: 0x40de Got: 0xd0ac
+# ERR: Expected: 0x40df Got: 0x40de
+# ERR: Expected: 0x485b Got: 0x40df
+# ERR: Expected: 0x485c Got: 0x485b
+# ERR: Expected: 0xbbab Got: 0x485c
+# ERR: Expected: 0xbbac Got: 0xbbab
+# ERR: Expected: 0xf0ab Got: 0xbbac
+# ERR: Expected: 0xf0ac Got: 0xf0ab
+# ERR: Expected: 0x80de Got: 0xf0ac
+# ERR: Expected: 0x80df Got: 0x80de
+# ERR: Expected: 0x885b Got: 0x80df
+# ERR: Expected: 0x885c Got: 0x885b
+# ERR: Expected: 0xfbab Got: 0x885c
+# ERR: Expected: 0xfbac Got: 0xfbab
+# ERR: Expected: 0x30ab Got: 0xfbac
+# ERR: Expected: 0x30ac Got: 0x30ab
+# ERR: Expected: 0x00de Got: 0x30ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x0002 Got: 0xb0ac
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# ERR: Expected: 0x01de Got: 0xffff
+# ERR: Expected: 0x01df Got: 0x01de
+# ERR: Expected: 0x095b Got: 0x01df
+# ERR: Expected: 0x095c Got: 0x095b
+# ERR: Expected: 0x7cab Got: 0x095c
+# ERR: Expected: 0x7cac Got: 0x7cab
+# ERR: Expected: 0xb1ab Got: 0x7cac
+# ERR: Expected: 0xb1ac Got: 0xb1ab
+# ERR: Expected: 0x02de Got: 0xb1ac
+# ERR: Expected: 0x02df Got: 0x02de
+# ERR: Expected: 0x0a5b Got: 0x02df
+# ERR: Expected: 0x0a5c Got: 0x0a5b
+# ERR: Expected: 0x7dab Got: 0x0a5c
+# ERR: Expected: 0x7dac Got: 0x7dab
+# ERR: Expected: 0xb2ab Got: 0x7dac
+# ERR: Expected: 0xb2ac Got: 0xb2ab
+# ERR: Expected: 0x04de Got: 0xb2ac
+# ERR: Expected: 0x04df Got: 0x04de
+# ERR: Expected: 0x0c5b Got: 0x04df
+# ERR: Expected: 0x0c5c Got: 0x0c5b
+# ERR: Expected: 0x7fab Got: 0x0c5c
+# ERR: Expected: 0x7fac Got: 0x7fab
+# ERR: Expected: 0xb4ab Got: 0x7fac
+# ERR: Expected: 0xb4ac Got: 0xb4ab
+# ERR: Expected: 0x08de Got: 0xb4ac
+# ERR: Expected: 0x08df Got: 0x08de
+# ERR: Expected: 0x105b Got: 0x08df
+# ERR: Expected: 0x105c Got: 0x105b
+# ERR: Expected: 0x83ab Got: 0x105c
+# ERR: Expected: 0x83ac Got: 0x83ab
+# ERR: Expected: 0xb8ab Got: 0x83ac
+# ERR: Expected: 0xb8ac Got: 0xb8ab
+# ERR: Expected: 0x10de Got: 0xb8ac
+# ERR: Expected: 0x10df Got: 0x10de
+# ERR: Expected: 0x185b Got: 0x10df
+# ERR: Expected: 0x185c Got: 0x185b
+# ERR: Expected: 0x8bab Got: 0x185c
+# ERR: Expected: 0x8bac Got: 0x8bab
+# ERR: Expected: 0xc0ab Got: 0x8bac
+# ERR: Expected: 0xc0ac Got: 0xc0ab
+# ERR: Expected: 0x20de Got: 0xc0ac
+# ERR: Expected: 0x20df Got: 0x20de
+# ERR: Expected: 0x285b Got: 0x20df
+# ERR: Expected: 0x285c Got: 0x285b
+# ERR: Expected: 0x9bab Got: 0x285c
+# ERR: Expected: 0x9bac Got: 0x9bab
+# ERR: Expected: 0xd0ab Got: 0x9bac
+# ERR: Expected: 0xd0ac Got: 0xd0ab
+# ERR: Expected: 0x40de Got: 0xd0ac
+# ERR: Expected: 0x40df Got: 0x40de
+# ERR: Expected: 0x485b Got: 0x40df
+# ERR: Expected: 0x485c Got: 0x485b
+# ERR: Expected: 0xbbab Got: 0x485c
+# ERR: Expected: 0xbbac Got: 0xbbab
+# ERR: Expected: 0xf0ab Got: 0xbbac
+# ERR: Expected: 0xf0ac Got: 0xf0ab
+# ERR: Expected: 0x80de Got: 0xf0ac
+# ERR: Expected: 0x80df Got: 0x80de
+# ERR: Expected: 0x885b Got: 0x80df
+# ERR: Expected: 0x885c Got: 0x885b
+# ERR: Expected: 0xfbab Got: 0x885c
+# ERR: Expected: 0xfbac Got: 0xfbab
+# ERR: Expected: 0x30ab Got: 0xfbac
+# ERR: Expected: 0x30ac Got: 0x30ab
+# ERR: Expected: 0x00de Got: 0x30ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x00de Got: 0xb0ac
+# ERR: Expected: 0x00df Got: 0x00de
+# ERR: Expected: 0x085b Got: 0x00df
+# ERR: Expected: 0x085c Got: 0x085b
+# ERR: Expected: 0x7bab Got: 0x085c
+# ERR: Expected: 0x7bac Got: 0x7bab
+# ERR: Expected: 0xb0ab Got: 0x7bac
+# ERR: Expected: 0xb0ac Got: 0xb0ab
+# ERR: Expected: 0x0001 Got: 0xb0ac
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carry...
+# ERR: Expected: 0x01de Got: 0xffff
+# ERR: Expected: 0x095b Got: 0x01de
+# ERR: Expected: 0x7cab Got: 0x095b
+# ERR: Expected: 0xb1ab Got: 0x7cab
+# ERR: Expected: 0x02de Got: 0xb1ab
+# ERR: Expected: 0x0a5b Got: 0x02de
+# ERR: Expected: 0x7dab Got: 0x0a5b
+# ERR: Expected: 0xb2ab Got: 0x7dab
+# ERR: Expected: 0x04de Got: 0xb2ab
+# ERR: Expected: 0x0c5b Got: 0x04de
+# ERR: Expected: 0x7fab Got: 0x0c5b
+# ERR: Expected: 0xb4ab Got: 0x7fab
+# ERR: Expected: 0x08de Got: 0xb4ab
+# ERR: Expected: 0x105b Got: 0x08de
+# ERR: Expected: 0x83ab Got: 0x105b
+# ERR: Expected: 0xb8ab Got: 0x83ab
+# ERR: Expected: 0x10de Got: 0xb8ab
+# ERR: Expected: 0x185b Got: 0x10de
+# ERR: Expected: 0x8bab Got: 0x185b
+# ERR: Expected: 0xc0ab Got: 0x8bab
+# ERR: Expected: 0x20de Got: 0xc0ab
+# ERR: Expected: 0x285b Got: 0x20de
+# ERR: Expected: 0x9bab Got: 0x285b
+# ERR: Expected: 0xd0ab Got: 0x9bab
+# ERR: Expected: 0x40de Got: 0xd0ab
+# ERR: Expected: 0x485b Got: 0x40de
+# ERR: Expected: 0xbbab Got: 0x485b
+# ERR: Expected: 0xf0ab Got: 0xbbab
+# ERR: Expected: 0x80de Got: 0xf0ab
+# ERR: Expected: 0x885b Got: 0x80de
+# ERR: Expected: 0xfbab Got: 0x885b
+# ERR: Expected: 0x30ab Got: 0xfbab
+# ERR: Expected: 0x00de Got: 0x30ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# Testing carry...
+# ERR: Expected: 0x01df Got: 0xb0ab
+# ERR: Expected: 0x095c Got: 0x01df
+# ERR: Expected: 0x7cac Got: 0x095c
+# ERR: Expected: 0xb1ac Got: 0x7cac
+# ERR: Expected: 0x02df Got: 0xb1ac
+# ERR: Expected: 0x0a5c Got: 0x02df
+# ERR: Expected: 0x7dac Got: 0x0a5c
+# ERR: Expected: 0xb2ac Got: 0x7dac
+# ERR: Expected: 0x04df Got: 0xb2ac
+# ERR: Expected: 0x0c5c Got: 0x04df
+# ERR: Expected: 0x7fac Got: 0x0c5c
+# ERR: Expected: 0xb4ac Got: 0x7fac
+# ERR: Expected: 0x08df Got: 0xb4ac
+# ERR: Expected: 0x105c Got: 0x08df
+# ERR: Expected: 0x83ac Got: 0x105c
+# ERR: Expected: 0xb8ac Got: 0x83ac
+# ERR: Expected: 0x10df Got: 0xb8ac
+# ERR: Expected: 0x185c Got: 0x10df
+# ERR: Expected: 0x8bac Got: 0x185c
+# ERR: Expected: 0xc0ac Got: 0x8bac
+# ERR: Expected: 0x20df Got: 0xc0ac
+# ERR: Expected: 0x285c Got: 0x20df
+# ERR: Expected: 0x9bac Got: 0x285c
+# ERR: Expected: 0xd0ac Got: 0x9bac
+# ERR: Expected: 0x40df Got: 0xd0ac
+# ERR: Expected: 0x485c Got: 0x40df
+# ERR: Expected: 0xbbac Got: 0x485c
+# ERR: Expected: 0xf0ac Got: 0xbbac
+# ERR: Expected: 0x80df Got: 0xf0ac
+# ERR: Expected: 0x885c Got: 0x80df
+# ERR: Expected: 0xfbac Got: 0x885c
+# ERR: Expected: 0x30ac Got: 0xfbac
+# ERR: Expected: 0x00df Got: 0x30ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x0001 Got: 0xb0ac
+# Testing finished
+vsim work.add16_t
+# vsim work.add16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Running tests...
+#     1 +     0 + 0 =     1
+#     1 +     1 + 0 =     2
+#    10 +    10 + 0 =    20
+#     1 +     2 + 1 =     4
+# 12701 +  6027 + 0 = 18728
+# 12701 +  6027 + 1 = 18729
+# 50804 +  7054 + 0 = 57858
+# 50804 +  7054 + 1 = 57859
+#  6608 +  9108 + 0 = 15716
+#  6608 +  9108 + 1 = 15717
+# 26432 + 13216 + 0 = 39648
+# 26432 + 13216 + 1 = 39649
+# 40192 + 21432 + 0 = 61624
+# 40192 + 21432 + 1 = 61625
+# 29696 + 37864 + 0 =  2024
+# 29696 + 37864 + 1 =  2025
+# 53248 +  5192 + 0 = 58440
+# 53248 +  5192 + 1 = 58441
+# 16384 +  5384 + 0 = 21768
+# 16384 +  5384 + 1 = 21769
+#     0 +  5768 + 0 =  5768
+#     0 +  5768 + 1 =  5769
+#     0 +  6536 + 0 =  6536
+#     0 +  6536 + 1 =  6537
+#     0 +  8072 + 0 =  8072
+#     0 +  8072 + 1 =  8073
+#     0 + 11144 + 0 = 11144
+#     0 + 11144 + 1 = 11145
+#     0 + 17288 + 0 = 17288
+#     0 + 17288 + 1 = 17289
+#     0 + 29576 + 0 = 29576
+#     0 + 29576 + 1 = 29577
+#     0 + 54152 + 0 = 54152
+#     0 + 54152 + 1 = 54153
+#     0 + 37768 + 0 = 37768
+#     0 + 37768 + 1 = 37769
+# All tests complete
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carry...
+# ERR: Expected: 0x01de Got: 0xffff
+# ERR: Expected: 0x095b Got: 0x01de
+# ERR: Expected: 0x7cab Got: 0x095b
+# ERR: Expected: 0xb1ab Got: 0x7cab
+# ERR: Expected: 0x02de Got: 0xb1ab
+# ERR: Expected: 0x0a5b Got: 0x02de
+# ERR: Expected: 0x7dab Got: 0x0a5b
+# ERR: Expected: 0xb2ab Got: 0x7dab
+# ERR: Expected: 0x04de Got: 0xb2ab
+# ERR: Expected: 0x0c5b Got: 0x04de
+# ERR: Expected: 0x7fab Got: 0x0c5b
+# ERR: Expected: 0xb4ab Got: 0x7fab
+# ERR: Expected: 0x08de Got: 0xb4ab
+# ERR: Expected: 0x105b Got: 0x08de
+# ERR: Expected: 0x83ab Got: 0x105b
+# ERR: Expected: 0xb8ab Got: 0x83ab
+# ERR: Expected: 0x10de Got: 0xb8ab
+# ERR: Expected: 0x185b Got: 0x10de
+# ERR: Expected: 0x8bab Got: 0x185b
+# ERR: Expected: 0xc0ab Got: 0x8bab
+# ERR: Expected: 0x20de Got: 0xc0ab
+# ERR: Expected: 0x285b Got: 0x20de
+# ERR: Expected: 0x9bab Got: 0x285b
+# ERR: Expected: 0xd0ab Got: 0x9bab
+# ERR: Expected: 0x40de Got: 0xd0ab
+# ERR: Expected: 0x485b Got: 0x40de
+# ERR: Expected: 0xbbab Got: 0x485b
+# ERR: Expected: 0xf0ab Got: 0xbbab
+# ERR: Expected: 0x80de Got: 0xf0ab
+# ERR: Expected: 0x885b Got: 0x80de
+# ERR: Expected: 0xfbab Got: 0x885b
+# ERR: Expected: 0x30ab Got: 0xfbab
+# ERR: Expected: 0x00de Got: 0x30ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# ERR: Expected: 0x00de Got: 0xb0ab
+# ERR: Expected: 0x085b Got: 0x00de
+# ERR: Expected: 0x7bab Got: 0x085b
+# ERR: Expected: 0xb0ab Got: 0x7bab
+# Testing carry...
+# ERR: Expected: 0x01df Got: 0xb0ab
+# ERR: Expected: 0x095c Got: 0x01df
+# ERR: Expected: 0x7cac Got: 0x095c
+# ERR: Expected: 0xb1ac Got: 0x7cac
+# ERR: Expected: 0x02df Got: 0xb1ac
+# ERR: Expected: 0x0a5c Got: 0x02df
+# ERR: Expected: 0x7dac Got: 0x0a5c
+# ERR: Expected: 0xb2ac Got: 0x7dac
+# ERR: Expected: 0x04df Got: 0xb2ac
+# ERR: Expected: 0x0c5c Got: 0x04df
+# ERR: Expected: 0x7fac Got: 0x0c5c
+# ERR: Expected: 0xb4ac Got: 0x7fac
+# ERR: Expected: 0x08df Got: 0xb4ac
+# ERR: Expected: 0x105c Got: 0x08df
+# ERR: Expected: 0x83ac Got: 0x105c
+# ERR: Expected: 0xb8ac Got: 0x83ac
+# ERR: Expected: 0x10df Got: 0xb8ac
+# ERR: Expected: 0x185c Got: 0x10df
+# ERR: Expected: 0x8bac Got: 0x185c
+# ERR: Expected: 0xc0ac Got: 0x8bac
+# ERR: Expected: 0x20df Got: 0xc0ac
+# ERR: Expected: 0x285c Got: 0x20df
+# ERR: Expected: 0x9bac Got: 0x285c
+# ERR: Expected: 0xd0ac Got: 0x9bac
+# ERR: Expected: 0x40df Got: 0xd0ac
+# ERR: Expected: 0x485c Got: 0x40df
+# ERR: Expected: 0xbbac Got: 0x485c
+# ERR: Expected: 0xf0ac Got: 0xbbac
+# ERR: Expected: 0x80df Got: 0xf0ac
+# ERR: Expected: 0x885c Got: 0x80df
+# ERR: Expected: 0xfbac Got: 0x885c
+# ERR: Expected: 0x30ac Got: 0xfbac
+# ERR: Expected: 0x00df Got: 0x30ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x00df Got: 0xb0ac
+# ERR: Expected: 0x085c Got: 0x00df
+# ERR: Expected: 0x7bac Got: 0x085c
+# ERR: Expected: 0xb0ac Got: 0x7bac
+# ERR: Expected: 0x0001 Got: 0xb0ac
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# ERR: Expected: 0x  478 Got: 0x65535
+# ERR: Expected: 0x 2395 Got: 0x  478
+# ERR: Expected: 0x31915 Got: 0x 2395
+# ERR: Expected: 0x45483 Got: 0x31915
+# ERR: Expected: 0x  734 Got: 0x45483
+# ERR: Expected: 0x 2651 Got: 0x  734
+# ERR: Expected: 0x32171 Got: 0x 2651
+# ERR: Expected: 0x45739 Got: 0x32171
+# ERR: Expected: 0x 1246 Got: 0x45739
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# ERR: Expected: 0x32683 Got: 0x 3163
+# ERR: Expected: 0x46251 Got: 0x32683
+# ERR: Expected: 0x 2270 Got: 0x46251
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# ERR: Expected: 0x33707 Got: 0x 4187
+# ERR: Expected: 0x47275 Got: 0x33707
+# ERR: Expected: 0x 4318 Got: 0x47275
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# ERR: Expected: 0x35755 Got: 0x 6235
+# ERR: Expected: 0x49323 Got: 0x35755
+# ERR: Expected: 0x 8414 Got: 0x49323
+# ERR: Expected: 0x10331 Got: 0x 8414
+# ERR: Expected: 0x39851 Got: 0x10331
+# ERR: Expected: 0x53419 Got: 0x39851
+# ERR: Expected: 0x16606 Got: 0x53419
+# ERR: Expected: 0x18523 Got: 0x16606
+# ERR: Expected: 0x48043 Got: 0x18523
+# ERR: Expected: 0x61611 Got: 0x48043
+# ERR: Expected: 0x32990 Got: 0x61611
+# ERR: Expected: 0x34907 Got: 0x32990
+# ERR: Expected: 0x64427 Got: 0x34907
+# ERR: Expected: 0x12459 Got: 0x64427
+# ERR: Expected: 0x  222 Got: 0x12459
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+# ERR: Expected: 0x  479 Got: 0x45227
+# ERR: Expected: 0x 2396 Got: 0x  479
+# ERR: Expected: 0x31916 Got: 0x 2396
+# ERR: Expected: 0x45484 Got: 0x31916
+# ERR: Expected: 0x  735 Got: 0x45484
+# ERR: Expected: 0x 2652 Got: 0x  735
+# ERR: Expected: 0x32172 Got: 0x 2652
+# ERR: Expected: 0x45740 Got: 0x32172
+# ERR: Expected: 0x 1247 Got: 0x45740
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# ERR: Expected: 0x32684 Got: 0x 3164
+# ERR: Expected: 0x46252 Got: 0x32684
+# ERR: Expected: 0x 2271 Got: 0x46252
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# ERR: Expected: 0x33708 Got: 0x 4188
+# ERR: Expected: 0x47276 Got: 0x33708
+# ERR: Expected: 0x 4319 Got: 0x47276
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# ERR: Expected: 0x35756 Got: 0x 6236
+# ERR: Expected: 0x49324 Got: 0x35756
+# ERR: Expected: 0x 8415 Got: 0x49324
+# ERR: Expected: 0x10332 Got: 0x 8415
+# ERR: Expected: 0x39852 Got: 0x10332
+# ERR: Expected: 0x53420 Got: 0x39852
+# ERR: Expected: 0x16607 Got: 0x53420
+# ERR: Expected: 0x18524 Got: 0x16607
+# ERR: Expected: 0x48044 Got: 0x18524
+# ERR: Expected: 0x61612 Got: 0x48044
+# ERR: Expected: 0x32991 Got: 0x61612
+# ERR: Expected: 0x34908 Got: 0x32991
+# ERR: Expected: 0x64428 Got: 0x34908
+# ERR: Expected: 0x12460 Got: 0x64428
+# ERR: Expected: 0x  223 Got: 0x12460
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+# Testing finished
+run -all
+restart -f
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# ERR: Expected: 0x  478 Got: 0x65535
+# ERR: Expected: 0x 2395 Got: 0x  478
+# ERR: Expected: 0x31915 Got: 0x 2395
+# ERR: Expected: 0x45483 Got: 0x31915
+# ERR: Expected: 0x  734 Got: 0x45483
+# ERR: Expected: 0x 2651 Got: 0x  734
+# ERR: Expected: 0x32171 Got: 0x 2651
+# ERR: Expected: 0x45739 Got: 0x32171
+# ERR: Expected: 0x 1246 Got: 0x45739
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# ERR: Expected: 0x32683 Got: 0x 3163
+# ERR: Expected: 0x46251 Got: 0x32683
+# ERR: Expected: 0x 2270 Got: 0x46251
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# ERR: Expected: 0x33707 Got: 0x 4187
+# ERR: Expected: 0x47275 Got: 0x33707
+# ERR: Expected: 0x 4318 Got: 0x47275
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# ERR: Expected: 0x35755 Got: 0x 6235
+# ERR: Expected: 0x49323 Got: 0x35755
+# ERR: Expected: 0x 8414 Got: 0x49323
+# ERR: Expected: 0x10331 Got: 0x 8414
+# ERR: Expected: 0x39851 Got: 0x10331
+# ERR: Expected: 0x53419 Got: 0x39851
+# ERR: Expected: 0x16606 Got: 0x53419
+# ERR: Expected: 0x18523 Got: 0x16606
+# ERR: Expected: 0x48043 Got: 0x18523
+# ERR: Expected: 0x61611 Got: 0x48043
+# ERR: Expected: 0x32990 Got: 0x61611
+# ERR: Expected: 0x34907 Got: 0x32990
+# ERR: Expected: 0x64427 Got: 0x34907
+# ERR: Expected: 0x12459 Got: 0x64427
+# ERR: Expected: 0x  222 Got: 0x12459
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+# ERR: Expected: 0x  479 Got: 0x45227
+# ERR: Expected: 0x 2396 Got: 0x  479
+# ERR: Expected: 0x31916 Got: 0x 2396
+# ERR: Expected: 0x45484 Got: 0x31916
+# ERR: Expected: 0x  735 Got: 0x45484
+# ERR: Expected: 0x 2652 Got: 0x  735
+# ERR: Expected: 0x32172 Got: 0x 2652
+# ERR: Expected: 0x45740 Got: 0x32172
+# ERR: Expected: 0x 1247 Got: 0x45740
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# ERR: Expected: 0x32684 Got: 0x 3164
+# ERR: Expected: 0x46252 Got: 0x32684
+# ERR: Expected: 0x 2271 Got: 0x46252
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# ERR: Expected: 0x33708 Got: 0x 4188
+# ERR: Expected: 0x47276 Got: 0x33708
+# ERR: Expected: 0x 4319 Got: 0x47276
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# ERR: Expected: 0x35756 Got: 0x 6236
+# ERR: Expected: 0x49324 Got: 0x35756
+# ERR: Expected: 0x 8415 Got: 0x49324
+# ERR: Expected: 0x10332 Got: 0x 8415
+# ERR: Expected: 0x39852 Got: 0x10332
+# ERR: Expected: 0x53420 Got: 0x39852
+# ERR: Expected: 0x16607 Got: 0x53420
+# ERR: Expected: 0x18524 Got: 0x16607
+# ERR: Expected: 0x48044 Got: 0x18524
+# ERR: Expected: 0x61612 Got: 0x48044
+# ERR: Expected: 0x32991 Got: 0x61612
+# ERR: Expected: 0x34908 Got: 0x32991
+# ERR: Expected: 0x64428 Got: 0x34908
+# ERR: Expected: 0x12460 Got: 0x64428
+# ERR: Expected: 0x  223 Got: 0x12460
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# ERR: Expected: 0x  478 Got: 0x65535
+# ERR: Expected: 0x 2395 Got: 0x  478
+# ERR: Expected: 0x31915 Got: 0x 2395
+# ERR: Expected: 0x45483 Got: 0x31915
+# ERR: Expected: 0x  734 Got: 0x45483
+# ERR: Expected: 0x 2651 Got: 0x  734
+# ERR: Expected: 0x32171 Got: 0x 2651
+# ERR: Expected: 0x45739 Got: 0x32171
+# ERR: Expected: 0x 1246 Got: 0x45739
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# ERR: Expected: 0x32683 Got: 0x 3163
+# ERR: Expected: 0x46251 Got: 0x32683
+# ERR: Expected: 0x 2270 Got: 0x46251
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# ERR: Expected: 0x33707 Got: 0x 4187
+# ERR: Expected: 0x47275 Got: 0x33707
+# ERR: Expected: 0x 4318 Got: 0x47275
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# ERR: Expected: 0x35755 Got: 0x 6235
+# ERR: Expected: 0x49323 Got: 0x35755
+# ERR: Expected: 0x 8414 Got: 0x49323
+# ERR: Expected: 0x10331 Got: 0x 8414
+# ERR: Expected: 0x39851 Got: 0x10331
+# ERR: Expected: 0x53419 Got: 0x39851
+# ERR: Expected: 0x16606 Got: 0x53419
+# ERR: Expected: 0x18523 Got: 0x16606
+# ERR: Expected: 0x48043 Got: 0x18523
+# ERR: Expected: 0x61611 Got: 0x48043
+# ERR: Expected: 0x32990 Got: 0x61611
+# ERR: Expected: 0x34907 Got: 0x32990
+# ERR: Expected: 0x64427 Got: 0x34907
+# ERR: Expected: 0x12459 Got: 0x64427
+# ERR: Expected: 0x  222 Got: 0x12459
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+# ERR: Expected: 0x  479 Got: 0x45227
+# ERR: Expected: 0x 2396 Got: 0x  479
+# ERR: Expected: 0x31916 Got: 0x 2396
+# ERR: Expected: 0x45484 Got: 0x31916
+# ERR: Expected: 0x  735 Got: 0x45484
+# ERR: Expected: 0x 2652 Got: 0x  735
+# ERR: Expected: 0x32172 Got: 0x 2652
+# ERR: Expected: 0x45740 Got: 0x32172
+# ERR: Expected: 0x 1247 Got: 0x45740
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# ERR: Expected: 0x32684 Got: 0x 3164
+# ERR: Expected: 0x46252 Got: 0x32684
+# ERR: Expected: 0x 2271 Got: 0x46252
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# ERR: Expected: 0x33708 Got: 0x 4188
+# ERR: Expected: 0x47276 Got: 0x33708
+# ERR: Expected: 0x 4319 Got: 0x47276
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# ERR: Expected: 0x35756 Got: 0x 6236
+# ERR: Expected: 0x49324 Got: 0x35756
+# ERR: Expected: 0x 8415 Got: 0x49324
+# ERR: Expected: 0x10332 Got: 0x 8415
+# ERR: Expected: 0x39852 Got: 0x10332
+# ERR: Expected: 0x53420 Got: 0x39852
+# ERR: Expected: 0x16607 Got: 0x53420
+# ERR: Expected: 0x18524 Got: 0x16607
+# ERR: Expected: 0x48044 Got: 0x18524
+# ERR: Expected: 0x61612 Got: 0x48044
+# ERR: Expected: 0x32991 Got: 0x61612
+# ERR: Expected: 0x34908 Got: 0x32991
+# ERR: Expected: 0x64428 Got: 0x34908
+# ERR: Expected: 0x12460 Got: 0x64428
+# ERR: Expected: 0x  223 Got: 0x12460
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# ERR: Expected: 0x  478 Got: 0x65535
+# ERR: Expected: 0x 2395 Got: 0x  478
+# ERR: Expected: 0x31915 Got: 0x 2395
+# ERR: Expected: 0x45483 Got: 0x31915
+# ERR: Expected: 0x  734 Got: 0x45483
+# ERR: Expected: 0x 2651 Got: 0x  734
+# ERR: Expected: 0x32171 Got: 0x 2651
+# ERR: Expected: 0x45739 Got: 0x32171
+# ERR: Expected: 0x 1246 Got: 0x45739
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# ERR: Expected: 0x32683 Got: 0x 3163
+# ERR: Expected: 0x46251 Got: 0x32683
+# ERR: Expected: 0x 2270 Got: 0x46251
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# ERR: Expected: 0x33707 Got: 0x 4187
+# ERR: Expected: 0x47275 Got: 0x33707
+# ERR: Expected: 0x 4318 Got: 0x47275
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# ERR: Expected: 0x35755 Got: 0x 6235
+# ERR: Expected: 0x49323 Got: 0x35755
+# ERR: Expected: 0x 8414 Got: 0x49323
+# ERR: Expected: 0x10331 Got: 0x 8414
+# ERR: Expected: 0x39851 Got: 0x10331
+# ERR: Expected: 0x53419 Got: 0x39851
+# ERR: Expected: 0x16606 Got: 0x53419
+# ERR: Expected: 0x18523 Got: 0x16606
+# ERR: Expected: 0x48043 Got: 0x18523
+# ERR: Expected: 0x61611 Got: 0x48043
+# ERR: Expected: 0x32990 Got: 0x61611
+# ERR: Expected: 0x34907 Got: 0x32990
+# ERR: Expected: 0x64427 Got: 0x34907
+# ERR: Expected: 0x12459 Got: 0x64427
+# ERR: Expected: 0x  222 Got: 0x12459
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+# ERR: Expected: 0x  479 Got: 0x45227
+# ERR: Expected: 0x 2396 Got: 0x  479
+# ERR: Expected: 0x31916 Got: 0x 2396
+# ERR: Expected: 0x45484 Got: 0x31916
+# ERR: Expected: 0x  735 Got: 0x45484
+# ERR: Expected: 0x 2652 Got: 0x  735
+# ERR: Expected: 0x32172 Got: 0x 2652
+# ERR: Expected: 0x45740 Got: 0x32172
+# ERR: Expected: 0x 1247 Got: 0x45740
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# ERR: Expected: 0x32684 Got: 0x 3164
+# ERR: Expected: 0x46252 Got: 0x32684
+# ERR: Expected: 0x 2271 Got: 0x46252
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# ERR: Expected: 0x33708 Got: 0x 4188
+# ERR: Expected: 0x47276 Got: 0x33708
+# ERR: Expected: 0x 4319 Got: 0x47276
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# ERR: Expected: 0x35756 Got: 0x 6236
+# ERR: Expected: 0x49324 Got: 0x35756
+# ERR: Expected: 0x 8415 Got: 0x49324
+# ERR: Expected: 0x10332 Got: 0x 8415
+# ERR: Expected: 0x39852 Got: 0x10332
+# ERR: Expected: 0x53420 Got: 0x39852
+# ERR: Expected: 0x16607 Got: 0x53420
+# ERR: Expected: 0x18524 Got: 0x16607
+# ERR: Expected: 0x48044 Got: 0x18524
+# ERR: Expected: 0x61612 Got: 0x48044
+# ERR: Expected: 0x32991 Got: 0x61612
+# ERR: Expected: 0x34908 Got: 0x32991
+# ERR: Expected: 0x64428 Got: 0x34908
+# ERR: Expected: 0x12460 Got: 0x64428
+# ERR: Expected: 0x  223 Got: 0x12460
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# ERR: Expected: 0x  478 Got: 0x65535
+# ERR: Expected: 0x 2395 Got: 0x  478
+# ERR: Expected: 0x31915 Got: 0x 2395
+# ERR: Expected: 0x45483 Got: 0x31915
+# ERR: Expected: 0x  734 Got: 0x45483
+# ERR: Expected: 0x 2651 Got: 0x  734
+# ERR: Expected: 0x32171 Got: 0x 2651
+# ERR: Expected: 0x45739 Got: 0x32171
+# ERR: Expected: 0x 1246 Got: 0x45739
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# ERR: Expected: 0x32683 Got: 0x 3163
+# ERR: Expected: 0x46251 Got: 0x32683
+# ERR: Expected: 0x 2270 Got: 0x46251
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# ERR: Expected: 0x33707 Got: 0x 4187
+# ERR: Expected: 0x47275 Got: 0x33707
+# ERR: Expected: 0x 4318 Got: 0x47275
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# ERR: Expected: 0x35755 Got: 0x 6235
+# ERR: Expected: 0x49323 Got: 0x35755
+# ERR: Expected: 0x 8414 Got: 0x49323
+# ERR: Expected: 0x10331 Got: 0x 8414
+# ERR: Expected: 0x39851 Got: 0x10331
+# ERR: Expected: 0x53419 Got: 0x39851
+# ERR: Expected: 0x16606 Got: 0x53419
+# ERR: Expected: 0x18523 Got: 0x16606
+# ERR: Expected: 0x48043 Got: 0x18523
+# ERR: Expected: 0x61611 Got: 0x48043
+# ERR: Expected: 0x32990 Got: 0x61611
+# ERR: Expected: 0x34907 Got: 0x32990
+# ERR: Expected: 0x64427 Got: 0x34907
+# ERR: Expected: 0x12459 Got: 0x64427
+# ERR: Expected: 0x  222 Got: 0x12459
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# ERR: Expected: 0x  222 Got: 0x45227
+# ERR: Expected: 0x 2139 Got: 0x  222
+# ERR: Expected: 0x31659 Got: 0x 2139
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+# ERR: Expected: 0x  479 Got: 0x45227
+# ERR: Expected: 0x 2396 Got: 0x  479
+# ERR: Expected: 0x31916 Got: 0x 2396
+# ERR: Expected: 0x45484 Got: 0x31916
+# ERR: Expected: 0x  735 Got: 0x45484
+# ERR: Expected: 0x 2652 Got: 0x  735
+# ERR: Expected: 0x32172 Got: 0x 2652
+# ERR: Expected: 0x45740 Got: 0x32172
+# ERR: Expected: 0x 1247 Got: 0x45740
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# ERR: Expected: 0x32684 Got: 0x 3164
+# ERR: Expected: 0x46252 Got: 0x32684
+# ERR: Expected: 0x 2271 Got: 0x46252
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# ERR: Expected: 0x33708 Got: 0x 4188
+# ERR: Expected: 0x47276 Got: 0x33708
+# ERR: Expected: 0x 4319 Got: 0x47276
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# ERR: Expected: 0x35756 Got: 0x 6236
+# ERR: Expected: 0x49324 Got: 0x35756
+# ERR: Expected: 0x 8415 Got: 0x49324
+# ERR: Expected: 0x10332 Got: 0x 8415
+# ERR: Expected: 0x39852 Got: 0x10332
+# ERR: Expected: 0x53420 Got: 0x39852
+# ERR: Expected: 0x16607 Got: 0x53420
+# ERR: Expected: 0x18524 Got: 0x16607
+# ERR: Expected: 0x48044 Got: 0x18524
+# ERR: Expected: 0x61612 Got: 0x48044
+# ERR: Expected: 0x32991 Got: 0x61612
+# ERR: Expected: 0x34908 Got: 0x32991
+# ERR: Expected: 0x64428 Got: 0x34908
+# ERR: Expected: 0x12460 Got: 0x64428
+# ERR: Expected: 0x  223 Got: 0x12460
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x  223 Got: 0x45228
+# ERR: Expected: 0x 2140 Got: 0x  223
+# ERR: Expected: 0x31660 Got: 0x 2140
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478 65535
+# ERR: Expected: 0x  478 Got: 0x65535
+#  2395   478
+# ERR: Expected: 0x 2395 Got: 0x  478
+# 31915  2395
+# ERR: Expected: 0x31915 Got: 0x 2395
+# 45483 31915
+# ERR: Expected: 0x45483 Got: 0x31915
+#   734 45483
+# ERR: Expected: 0x  734 Got: 0x45483
+#  2651   734
+# ERR: Expected: 0x 2651 Got: 0x  734
+# 32171  2651
+# ERR: Expected: 0x32171 Got: 0x 2651
+# 45739 32171
+# ERR: Expected: 0x45739 Got: 0x32171
+#  1246 45739
+# ERR: Expected: 0x 1246 Got: 0x45739
+#  3163  1246
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# 32683  3163
+# ERR: Expected: 0x32683 Got: 0x 3163
+# 46251 32683
+# ERR: Expected: 0x46251 Got: 0x32683
+#  2270 46251
+# ERR: Expected: 0x 2270 Got: 0x46251
+#  4187  2270
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# 33707  4187
+# ERR: Expected: 0x33707 Got: 0x 4187
+# 47275 33707
+# ERR: Expected: 0x47275 Got: 0x33707
+#  4318 47275
+# ERR: Expected: 0x 4318 Got: 0x47275
+#  6235  4318
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# 35755  6235
+# ERR: Expected: 0x35755 Got: 0x 6235
+# 49323 35755
+# ERR: Expected: 0x49323 Got: 0x35755
+#  8414 49323
+# ERR: Expected: 0x 8414 Got: 0x49323
+# 10331  8414
+# ERR: Expected: 0x10331 Got: 0x 8414
+# 39851 10331
+# ERR: Expected: 0x39851 Got: 0x10331
+# 53419 39851
+# ERR: Expected: 0x53419 Got: 0x39851
+# 16606 53419
+# ERR: Expected: 0x16606 Got: 0x53419
+# 18523 16606
+# ERR: Expected: 0x18523 Got: 0x16606
+# 48043 18523
+# ERR: Expected: 0x48043 Got: 0x18523
+# 61611 48043
+# ERR: Expected: 0x61611 Got: 0x48043
+# 32990 61611
+# ERR: Expected: 0x32990 Got: 0x61611
+# 34907 32990
+# ERR: Expected: 0x34907 Got: 0x32990
+# 64427 34907
+# ERR: Expected: 0x64427 Got: 0x34907
+# 12459 64427
+# ERR: Expected: 0x12459 Got: 0x64427
+#   222 12459
+# ERR: Expected: 0x  222 Got: 0x12459
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+#   479 45227
+# ERR: Expected: 0x  479 Got: 0x45227
+#  2396   479
+# ERR: Expected: 0x 2396 Got: 0x  479
+# 31916  2396
+# ERR: Expected: 0x31916 Got: 0x 2396
+# 45484 31916
+# ERR: Expected: 0x45484 Got: 0x31916
+#   735 45484
+# ERR: Expected: 0x  735 Got: 0x45484
+#  2652   735
+# ERR: Expected: 0x 2652 Got: 0x  735
+# 32172  2652
+# ERR: Expected: 0x32172 Got: 0x 2652
+# 45740 32172
+# ERR: Expected: 0x45740 Got: 0x32172
+#  1247 45740
+# ERR: Expected: 0x 1247 Got: 0x45740
+#  3164  1247
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# 32684  3164
+# ERR: Expected: 0x32684 Got: 0x 3164
+# 46252 32684
+# ERR: Expected: 0x46252 Got: 0x32684
+#  2271 46252
+# ERR: Expected: 0x 2271 Got: 0x46252
+#  4188  2271
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# 33708  4188
+# ERR: Expected: 0x33708 Got: 0x 4188
+# 47276 33708
+# ERR: Expected: 0x47276 Got: 0x33708
+#  4319 47276
+# ERR: Expected: 0x 4319 Got: 0x47276
+#  6236  4319
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# 35756  6236
+# ERR: Expected: 0x35756 Got: 0x 6236
+# 49324 35756
+# ERR: Expected: 0x49324 Got: 0x35756
+#  8415 49324
+# ERR: Expected: 0x 8415 Got: 0x49324
+# 10332  8415
+# ERR: Expected: 0x10332 Got: 0x 8415
+# 39852 10332
+# ERR: Expected: 0x39852 Got: 0x10332
+# 53420 39852
+# ERR: Expected: 0x53420 Got: 0x39852
+# 16607 53420
+# ERR: Expected: 0x16607 Got: 0x53420
+# 18524 16607
+# ERR: Expected: 0x18524 Got: 0x16607
+# 48044 18524
+# ERR: Expected: 0x48044 Got: 0x18524
+# 61612 48044
+# ERR: Expected: 0x61612 Got: 0x48044
+# 32991 61612
+# ERR: Expected: 0x32991 Got: 0x61612
+# 34908 32991
+# ERR: Expected: 0x34908 Got: 0x32991
+# 64428 34908
+# ERR: Expected: 0x64428 Got: 0x34908
+# 12460 64428
+# ERR: Expected: 0x12460 Got: 0x64428
+#   223 12460
+# ERR: Expected: 0x  223 Got: 0x12460
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478 65535
+# ERR: Expected: 0x  478 Got: 0x65535
+#  2395   478
+# ERR: Expected: 0x 2395 Got: 0x  478
+# 31915  2395
+# ERR: Expected: 0x31915 Got: 0x 2395
+# 45483 31915
+# ERR: Expected: 0x45483 Got: 0x31915
+#   734 45483
+# ERR: Expected: 0x  734 Got: 0x45483
+#  2651   734
+# ERR: Expected: 0x 2651 Got: 0x  734
+# 32171  2651
+# ERR: Expected: 0x32171 Got: 0x 2651
+# 45739 32171
+# ERR: Expected: 0x45739 Got: 0x32171
+#  1246 45739
+# ERR: Expected: 0x 1246 Got: 0x45739
+#  3163  1246
+# ERR: Expected: 0x 3163 Got: 0x 1246
+# 32683  3163
+# ERR: Expected: 0x32683 Got: 0x 3163
+# 46251 32683
+# ERR: Expected: 0x46251 Got: 0x32683
+#  2270 46251
+# ERR: Expected: 0x 2270 Got: 0x46251
+#  4187  2270
+# ERR: Expected: 0x 4187 Got: 0x 2270
+# 33707  4187
+# ERR: Expected: 0x33707 Got: 0x 4187
+# 47275 33707
+# ERR: Expected: 0x47275 Got: 0x33707
+#  4318 47275
+# ERR: Expected: 0x 4318 Got: 0x47275
+#  6235  4318
+# ERR: Expected: 0x 6235 Got: 0x 4318
+# 35755  6235
+# ERR: Expected: 0x35755 Got: 0x 6235
+# 49323 35755
+# ERR: Expected: 0x49323 Got: 0x35755
+#  8414 49323
+# ERR: Expected: 0x 8414 Got: 0x49323
+# 10331  8414
+# ERR: Expected: 0x10331 Got: 0x 8414
+# 39851 10331
+# ERR: Expected: 0x39851 Got: 0x10331
+# 53419 39851
+# ERR: Expected: 0x53419 Got: 0x39851
+# 16606 53419
+# ERR: Expected: 0x16606 Got: 0x53419
+# 18523 16606
+# ERR: Expected: 0x18523 Got: 0x16606
+# 48043 18523
+# ERR: Expected: 0x48043 Got: 0x18523
+# 61611 48043
+# ERR: Expected: 0x61611 Got: 0x48043
+# 32990 61611
+# ERR: Expected: 0x32990 Got: 0x61611
+# 34907 32990
+# ERR: Expected: 0x34907 Got: 0x32990
+# 64427 34907
+# ERR: Expected: 0x64427 Got: 0x34907
+# 12459 64427
+# ERR: Expected: 0x12459 Got: 0x64427
+#   222 12459
+# ERR: Expected: 0x  222 Got: 0x12459
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# Testing with carryin...
+#   479 45227
+# ERR: Expected: 0x  479 Got: 0x45227
+#  2396   479
+# ERR: Expected: 0x 2396 Got: 0x  479
+# 31916  2396
+# ERR: Expected: 0x31916 Got: 0x 2396
+# 45484 31916
+# ERR: Expected: 0x45484 Got: 0x31916
+#   735 45484
+# ERR: Expected: 0x  735 Got: 0x45484
+#  2652   735
+# ERR: Expected: 0x 2652 Got: 0x  735
+# 32172  2652
+# ERR: Expected: 0x32172 Got: 0x 2652
+# 45740 32172
+# ERR: Expected: 0x45740 Got: 0x32172
+#  1247 45740
+# ERR: Expected: 0x 1247 Got: 0x45740
+#  3164  1247
+# ERR: Expected: 0x 3164 Got: 0x 1247
+# 32684  3164
+# ERR: Expected: 0x32684 Got: 0x 3164
+# 46252 32684
+# ERR: Expected: 0x46252 Got: 0x32684
+#  2271 46252
+# ERR: Expected: 0x 2271 Got: 0x46252
+#  4188  2271
+# ERR: Expected: 0x 4188 Got: 0x 2271
+# 33708  4188
+# ERR: Expected: 0x33708 Got: 0x 4188
+# 47276 33708
+# ERR: Expected: 0x47276 Got: 0x33708
+#  4319 47276
+# ERR: Expected: 0x 4319 Got: 0x47276
+#  6236  4319
+# ERR: Expected: 0x 6236 Got: 0x 4319
+# 35756  6236
+# ERR: Expected: 0x35756 Got: 0x 6236
+# 49324 35756
+# ERR: Expected: 0x49324 Got: 0x35756
+#  8415 49324
+# ERR: Expected: 0x 8415 Got: 0x49324
+# 10332  8415
+# ERR: Expected: 0x10332 Got: 0x 8415
+# 39852 10332
+# ERR: Expected: 0x39852 Got: 0x10332
+# 53420 39852
+# ERR: Expected: 0x53420 Got: 0x39852
+# 16607 53420
+# ERR: Expected: 0x16607 Got: 0x53420
+# 18524 16607
+# ERR: Expected: 0x18524 Got: 0x16607
+# 48044 18524
+# ERR: Expected: 0x48044 Got: 0x18524
+# 61612 48044
+# ERR: Expected: 0x61612 Got: 0x48044
+# 32991 61612
+# ERR: Expected: 0x32991 Got: 0x61612
+# 34908 32991
+# ERR: Expected: 0x34908 Got: 0x32991
+# 64428 34908
+# ERR: Expected: 0x64428 Got: 0x34908
+# 12460 64428
+# ERR: Expected: 0x12460 Got: 0x64428
+#   223 12460
+# ERR: Expected: 0x  223 Got: 0x12460
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478 65535
+# ERR: Expected: 0x  478 Got: 0x65535
+#   478   478
+#  2395   478
+# ERR: Expected: 0x 2395 Got: 0x  478
+#  2395  2395
+# 31915  2395
+# ERR: Expected: 0x31915 Got: 0x 2395
+# 31915 31915
+# 45483 31915
+# ERR: Expected: 0x45483 Got: 0x31915
+# 45483 45483
+#   734 45483
+# ERR: Expected: 0x  734 Got: 0x45483
+#   734   734
+#  2651   734
+# ERR: Expected: 0x 2651 Got: 0x  734
+#  2651  2651
+# 32171  2651
+# ERR: Expected: 0x32171 Got: 0x 2651
+# 32171 32171
+# 45739 32171
+# ERR: Expected: 0x45739 Got: 0x32171
+# 45739 45739
+#  1246 45739
+# ERR: Expected: 0x 1246 Got: 0x45739
+#  1246  1246
+#  3163  1246
+# ERR: Expected: 0x 3163 Got: 0x 1246
+#  3163  3163
+# 32683  3163
+# ERR: Expected: 0x32683 Got: 0x 3163
+# 32683 32683
+# 46251 32683
+# ERR: Expected: 0x46251 Got: 0x32683
+# 46251 46251
+#  2270 46251
+# ERR: Expected: 0x 2270 Got: 0x46251
+#  2270  2270
+#  4187  2270
+# ERR: Expected: 0x 4187 Got: 0x 2270
+#  4187  4187
+# 33707  4187
+# ERR: Expected: 0x33707 Got: 0x 4187
+# 33707 33707
+# 47275 33707
+# ERR: Expected: 0x47275 Got: 0x33707
+# 47275 47275
+#  4318 47275
+# ERR: Expected: 0x 4318 Got: 0x47275
+#  4318  4318
+#  6235  4318
+# ERR: Expected: 0x 6235 Got: 0x 4318
+#  6235  6235
+# 35755  6235
+# ERR: Expected: 0x35755 Got: 0x 6235
+# 35755 35755
+# 49323 35755
+# ERR: Expected: 0x49323 Got: 0x35755
+# 49323 49323
+#  8414 49323
+# ERR: Expected: 0x 8414 Got: 0x49323
+#  8414  8414
+# 10331  8414
+# ERR: Expected: 0x10331 Got: 0x 8414
+# 10331 10331
+# 39851 10331
+# ERR: Expected: 0x39851 Got: 0x10331
+# 39851 39851
+# 53419 39851
+# ERR: Expected: 0x53419 Got: 0x39851
+# 53419 53419
+# 16606 53419
+# ERR: Expected: 0x16606 Got: 0x53419
+# 16606 16606
+# 18523 16606
+# ERR: Expected: 0x18523 Got: 0x16606
+# 18523 18523
+# 48043 18523
+# ERR: Expected: 0x48043 Got: 0x18523
+# 48043 48043
+# 61611 48043
+# ERR: Expected: 0x61611 Got: 0x48043
+# 61611 61611
+# 32990 61611
+# ERR: Expected: 0x32990 Got: 0x61611
+# 32990 32990
+# 34907 32990
+# ERR: Expected: 0x34907 Got: 0x32990
+# 34907 34907
+# 64427 34907
+# ERR: Expected: 0x64427 Got: 0x34907
+# 64427 64427
+# 12459 64427
+# ERR: Expected: 0x12459 Got: 0x64427
+# 12459 12459
+#   222 12459
+# ERR: Expected: 0x  222 Got: 0x12459
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+# Testing with carryin...
+#   479 45227
+# ERR: Expected: 0x  479 Got: 0x45227
+#   479   479
+#  2396   479
+# ERR: Expected: 0x 2396 Got: 0x  479
+#  2396  2396
+# 31916  2396
+# ERR: Expected: 0x31916 Got: 0x 2396
+# 31916 31916
+# 45484 31916
+# ERR: Expected: 0x45484 Got: 0x31916
+# 45484 45484
+#   735 45484
+# ERR: Expected: 0x  735 Got: 0x45484
+#   735   735
+#  2652   735
+# ERR: Expected: 0x 2652 Got: 0x  735
+#  2652  2652
+# 32172  2652
+# ERR: Expected: 0x32172 Got: 0x 2652
+# 32172 32172
+# 45740 32172
+# ERR: Expected: 0x45740 Got: 0x32172
+# 45740 45740
+#  1247 45740
+# ERR: Expected: 0x 1247 Got: 0x45740
+#  1247  1247
+#  3164  1247
+# ERR: Expected: 0x 3164 Got: 0x 1247
+#  3164  3164
+# 32684  3164
+# ERR: Expected: 0x32684 Got: 0x 3164
+# 32684 32684
+# 46252 32684
+# ERR: Expected: 0x46252 Got: 0x32684
+# 46252 46252
+#  2271 46252
+# ERR: Expected: 0x 2271 Got: 0x46252
+#  2271  2271
+#  4188  2271
+# ERR: Expected: 0x 4188 Got: 0x 2271
+#  4188  4188
+# 33708  4188
+# ERR: Expected: 0x33708 Got: 0x 4188
+# 33708 33708
+# 47276 33708
+# ERR: Expected: 0x47276 Got: 0x33708
+# 47276 47276
+#  4319 47276
+# ERR: Expected: 0x 4319 Got: 0x47276
+#  4319  4319
+#  6236  4319
+# ERR: Expected: 0x 6236 Got: 0x 4319
+#  6236  6236
+# 35756  6236
+# ERR: Expected: 0x35756 Got: 0x 6236
+# 35756 35756
+# 49324 35756
+# ERR: Expected: 0x49324 Got: 0x35756
+# 49324 49324
+#  8415 49324
+# ERR: Expected: 0x 8415 Got: 0x49324
+#  8415  8415
+# 10332  8415
+# ERR: Expected: 0x10332 Got: 0x 8415
+# 10332 10332
+# 39852 10332
+# ERR: Expected: 0x39852 Got: 0x10332
+# 39852 39852
+# 53420 39852
+# ERR: Expected: 0x53420 Got: 0x39852
+# 53420 53420
+# 16607 53420
+# ERR: Expected: 0x16607 Got: 0x53420
+# 16607 16607
+# 18524 16607
+# ERR: Expected: 0x18524 Got: 0x16607
+# 18524 18524
+# 48044 18524
+# ERR: Expected: 0x48044 Got: 0x18524
+# 48044 48044
+# 61612 48044
+# ERR: Expected: 0x61612 Got: 0x48044
+# 61612 61612
+# 32991 61612
+# ERR: Expected: 0x32991 Got: 0x61612
+# 32991 32991
+# 34908 32991
+# ERR: Expected: 0x34908 Got: 0x32991
+# 34908 34908
+# 64428 34908
+# ERR: Expected: 0x64428 Got: 0x34908
+# 64428 64428
+# 12460 64428
+# ERR: Expected: 0x12460 Got: 0x64428
+# 12460 12460
+#   223 12460
+# ERR: Expected: 0x  223 Got: 0x12460
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478 64135
+# ERR: Expected: 0x  478 Got: 0x64135
+#   478   478
+#  2395   478
+# ERR: Expected: 0x 2395 Got: 0x  478
+#  2395  2395
+# 31915  2395
+# ERR: Expected: 0x31915 Got: 0x 2395
+# 31915 31915
+# 45483 31915
+# ERR: Expected: 0x45483 Got: 0x31915
+# 45483 45483
+#   734 45483
+# ERR: Expected: 0x  734 Got: 0x45483
+#   734   734
+#  2651   734
+# ERR: Expected: 0x 2651 Got: 0x  734
+#  2651  2651
+# 32171  2651
+# ERR: Expected: 0x32171 Got: 0x 2651
+# 32171 32171
+# 45739 32171
+# ERR: Expected: 0x45739 Got: 0x32171
+# 45739 45739
+#  1246 45739
+# ERR: Expected: 0x 1246 Got: 0x45739
+#  1246  1246
+#  3163  1246
+# ERR: Expected: 0x 3163 Got: 0x 1246
+#  3163  3163
+# 32683  3163
+# ERR: Expected: 0x32683 Got: 0x 3163
+# 32683 32683
+# 46251 32683
+# ERR: Expected: 0x46251 Got: 0x32683
+# 46251 46251
+#  2270 46251
+# ERR: Expected: 0x 2270 Got: 0x46251
+#  2270  2270
+#  4187  2270
+# ERR: Expected: 0x 4187 Got: 0x 2270
+#  4187  4187
+# 33707  4187
+# ERR: Expected: 0x33707 Got: 0x 4187
+# 33707 33707
+# 47275 33707
+# ERR: Expected: 0x47275 Got: 0x33707
+# 47275 47275
+#  4318 47275
+# ERR: Expected: 0x 4318 Got: 0x47275
+#  4318  4318
+#  6235  4318
+# ERR: Expected: 0x 6235 Got: 0x 4318
+#  6235  6235
+# 35755  6235
+# ERR: Expected: 0x35755 Got: 0x 6235
+# 35755 35755
+# 49323 35755
+# ERR: Expected: 0x49323 Got: 0x35755
+# 49323 49323
+#  8414 49323
+# ERR: Expected: 0x 8414 Got: 0x49323
+#  8414  8414
+# 10331  8414
+# ERR: Expected: 0x10331 Got: 0x 8414
+# 10331 10331
+# 39851 10331
+# ERR: Expected: 0x39851 Got: 0x10331
+# 39851 39851
+# 53419 39851
+# ERR: Expected: 0x53419 Got: 0x39851
+# 53419 53419
+# 16606 53419
+# ERR: Expected: 0x16606 Got: 0x53419
+# 16606 16606
+# 18523 16606
+# ERR: Expected: 0x18523 Got: 0x16606
+# 18523 18523
+# 48043 18523
+# ERR: Expected: 0x48043 Got: 0x18523
+# 48043 48043
+# 61611 48043
+# ERR: Expected: 0x61611 Got: 0x48043
+# 61611 61611
+# 32990 61611
+# ERR: Expected: 0x32990 Got: 0x61611
+# 32990 32990
+# 34907 32990
+# ERR: Expected: 0x34907 Got: 0x32990
+# 34907 34907
+# 64427 34907
+# ERR: Expected: 0x64427 Got: 0x34907
+# 64427 64427
+# 12459 64427
+# ERR: Expected: 0x12459 Got: 0x64427
+# 12459 12459
+#   222 12459
+# ERR: Expected: 0x  222 Got: 0x12459
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+# Testing with carryin...
+#   479 45227
+# ERR: Expected: 0x  479 Got: 0x45227
+#   479   479
+#  2396   479
+# ERR: Expected: 0x 2396 Got: 0x  479
+#  2396  2396
+# 31916  2396
+# ERR: Expected: 0x31916 Got: 0x 2396
+# 31916 31916
+# 45484 31916
+# ERR: Expected: 0x45484 Got: 0x31916
+# 45484 45484
+#   735 45484
+# ERR: Expected: 0x  735 Got: 0x45484
+#   735   735
+#  2652   735
+# ERR: Expected: 0x 2652 Got: 0x  735
+#  2652  2652
+# 32172  2652
+# ERR: Expected: 0x32172 Got: 0x 2652
+# 32172 32172
+# 45740 32172
+# ERR: Expected: 0x45740 Got: 0x32172
+# 45740 45740
+#  1247 45740
+# ERR: Expected: 0x 1247 Got: 0x45740
+#  1247  1247
+#  3164  1247
+# ERR: Expected: 0x 3164 Got: 0x 1247
+#  3164  3164
+# 32684  3164
+# ERR: Expected: 0x32684 Got: 0x 3164
+# 32684 32684
+# 46252 32684
+# ERR: Expected: 0x46252 Got: 0x32684
+# 46252 46252
+#  2271 46252
+# ERR: Expected: 0x 2271 Got: 0x46252
+#  2271  2271
+#  4188  2271
+# ERR: Expected: 0x 4188 Got: 0x 2271
+#  4188  4188
+# 33708  4188
+# ERR: Expected: 0x33708 Got: 0x 4188
+# 33708 33708
+# 47276 33708
+# ERR: Expected: 0x47276 Got: 0x33708
+# 47276 47276
+#  4319 47276
+# ERR: Expected: 0x 4319 Got: 0x47276
+#  4319  4319
+#  6236  4319
+# ERR: Expected: 0x 6236 Got: 0x 4319
+#  6236  6236
+# 35756  6236
+# ERR: Expected: 0x35756 Got: 0x 6236
+# 35756 35756
+# 49324 35756
+# ERR: Expected: 0x49324 Got: 0x35756
+# 49324 49324
+#  8415 49324
+# ERR: Expected: 0x 8415 Got: 0x49324
+#  8415  8415
+# 10332  8415
+# ERR: Expected: 0x10332 Got: 0x 8415
+# 10332 10332
+# 39852 10332
+# ERR: Expected: 0x39852 Got: 0x10332
+# 39852 39852
+# 53420 39852
+# ERR: Expected: 0x53420 Got: 0x39852
+# 53420 53420
+# 16607 53420
+# ERR: Expected: 0x16607 Got: 0x53420
+# 16607 16607
+# 18524 16607
+# ERR: Expected: 0x18524 Got: 0x16607
+# 18524 18524
+# 48044 18524
+# ERR: Expected: 0x48044 Got: 0x18524
+# 48044 48044
+# 61612 48044
+# ERR: Expected: 0x61612 Got: 0x48044
+# 61612 61612
+# 32991 61612
+# ERR: Expected: 0x32991 Got: 0x61612
+# 32991 32991
+# 34908 32991
+# ERR: Expected: 0x34908 Got: 0x32991
+# 34908 34908
+# 64428 34908
+# ERR: Expected: 0x64428 Got: 0x34908
+# 64428 64428
+# 12460 64428
+# ERR: Expected: 0x12460 Got: 0x64428
+# 12460 12460
+#   223 12460
+# ERR: Expected: 0x  223 Got: 0x12460
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478 64135
+# ERR: Expected: 0x  478 Got: 0x64135
+#   478   478
+#  2395   478
+# ERR: Expected: 0x 2395 Got: 0x  478
+#  2395  2395
+# 31915  2395
+# ERR: Expected: 0x31915 Got: 0x 2395
+# 31915 31915
+# 45483 31915
+# ERR: Expected: 0x45483 Got: 0x31915
+# 45483 45483
+#   734 45483
+# ERR: Expected: 0x  734 Got: 0x45483
+#   734   734
+#  2651   734
+# ERR: Expected: 0x 2651 Got: 0x  734
+#  2651  2651
+# 32171  2651
+# ERR: Expected: 0x32171 Got: 0x 2651
+# 32171 32171
+# 45739 32171
+# ERR: Expected: 0x45739 Got: 0x32171
+# 45739 45739
+#  1246 45739
+# ERR: Expected: 0x 1246 Got: 0x45739
+#  1246  1246
+#  3163  1246
+# ERR: Expected: 0x 3163 Got: 0x 1246
+#  3163  3163
+# 32683  3163
+# ERR: Expected: 0x32683 Got: 0x 3163
+# 32683 32683
+# 46251 32683
+# ERR: Expected: 0x46251 Got: 0x32683
+# 46251 46251
+#  2270 46251
+# ERR: Expected: 0x 2270 Got: 0x46251
+#  2270  2270
+#  4187  2270
+# ERR: Expected: 0x 4187 Got: 0x 2270
+#  4187  4187
+# 33707  4187
+# ERR: Expected: 0x33707 Got: 0x 4187
+# 33707 33707
+# 47275 33707
+# ERR: Expected: 0x47275 Got: 0x33707
+# 47275 47275
+#  4318 47275
+# ERR: Expected: 0x 4318 Got: 0x47275
+#  4318  4318
+#  6235  4318
+# ERR: Expected: 0x 6235 Got: 0x 4318
+#  6235  6235
+# 35755  6235
+# ERR: Expected: 0x35755 Got: 0x 6235
+# 35755 35755
+# 49323 35755
+# ERR: Expected: 0x49323 Got: 0x35755
+# 49323 49323
+#  8414 49323
+# ERR: Expected: 0x 8414 Got: 0x49323
+#  8414  8414
+# 10331  8414
+# ERR: Expected: 0x10331 Got: 0x 8414
+# 10331 10331
+# 39851 10331
+# ERR: Expected: 0x39851 Got: 0x10331
+# 39851 39851
+# 53419 39851
+# ERR: Expected: 0x53419 Got: 0x39851
+# 53419 53419
+# 16606 53419
+# ERR: Expected: 0x16606 Got: 0x53419
+# 16606 16606
+# 18523 16606
+# ERR: Expected: 0x18523 Got: 0x16606
+# 18523 18523
+# 48043 18523
+# ERR: Expected: 0x48043 Got: 0x18523
+# 48043 48043
+# 61611 48043
+# ERR: Expected: 0x61611 Got: 0x48043
+# 61611 61611
+# 32990 61611
+# ERR: Expected: 0x32990 Got: 0x61611
+# 32990 32990
+# 34907 32990
+# ERR: Expected: 0x34907 Got: 0x32990
+# 34907 34907
+# 64427 34907
+# ERR: Expected: 0x64427 Got: 0x34907
+# 64427 64427
+# 12459 64427
+# ERR: Expected: 0x12459 Got: 0x64427
+# 12459 12459
+#   222 12459
+# ERR: Expected: 0x  222 Got: 0x12459
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+#   222 45227
+# ERR: Expected: 0x  222 Got: 0x45227
+#   222   222
+#  2139   222
+# ERR: Expected: 0x 2139 Got: 0x  222
+#  2139  2139
+# 31659  2139
+# ERR: Expected: 0x31659 Got: 0x 2139
+# 31659 31659
+# 45227 31659
+# ERR: Expected: 0x45227 Got: 0x31659
+# 45227 45227
+# Testing with carryin...
+#   479 45227
+# ERR: Expected: 0x  479 Got: 0x45227
+#   479   479
+#  2396   479
+# ERR: Expected: 0x 2396 Got: 0x  479
+#  2396  2396
+# 31916  2396
+# ERR: Expected: 0x31916 Got: 0x 2396
+# 31916 31916
+# 45484 31916
+# ERR: Expected: 0x45484 Got: 0x31916
+# 45484 45484
+#   735 45484
+# ERR: Expected: 0x  735 Got: 0x45484
+#   735   735
+#  2652   735
+# ERR: Expected: 0x 2652 Got: 0x  735
+#  2652  2652
+# 32172  2652
+# ERR: Expected: 0x32172 Got: 0x 2652
+# 32172 32172
+# 45740 32172
+# ERR: Expected: 0x45740 Got: 0x32172
+# 45740 45740
+#  1247 45740
+# ERR: Expected: 0x 1247 Got: 0x45740
+#  1247  1247
+#  3164  1247
+# ERR: Expected: 0x 3164 Got: 0x 1247
+#  3164  3164
+# 32684  3164
+# ERR: Expected: 0x32684 Got: 0x 3164
+# 32684 32684
+# 46252 32684
+# ERR: Expected: 0x46252 Got: 0x32684
+# 46252 46252
+#  2271 46252
+# ERR: Expected: 0x 2271 Got: 0x46252
+#  2271  2271
+#  4188  2271
+# ERR: Expected: 0x 4188 Got: 0x 2271
+#  4188  4188
+# 33708  4188
+# ERR: Expected: 0x33708 Got: 0x 4188
+# 33708 33708
+# 47276 33708
+# ERR: Expected: 0x47276 Got: 0x33708
+# 47276 47276
+#  4319 47276
+# ERR: Expected: 0x 4319 Got: 0x47276
+#  4319  4319
+#  6236  4319
+# ERR: Expected: 0x 6236 Got: 0x 4319
+#  6236  6236
+# 35756  6236
+# ERR: Expected: 0x35756 Got: 0x 6236
+# 35756 35756
+# 49324 35756
+# ERR: Expected: 0x49324 Got: 0x35756
+# 49324 49324
+#  8415 49324
+# ERR: Expected: 0x 8415 Got: 0x49324
+#  8415  8415
+# 10332  8415
+# ERR: Expected: 0x10332 Got: 0x 8415
+# 10332 10332
+# 39852 10332
+# ERR: Expected: 0x39852 Got: 0x10332
+# 39852 39852
+# 53420 39852
+# ERR: Expected: 0x53420 Got: 0x39852
+# 53420 53420
+# 16607 53420
+# ERR: Expected: 0x16607 Got: 0x53420
+# 16607 16607
+# 18524 16607
+# ERR: Expected: 0x18524 Got: 0x16607
+# 18524 18524
+# 48044 18524
+# ERR: Expected: 0x48044 Got: 0x18524
+# 48044 48044
+# 61612 48044
+# ERR: Expected: 0x61612 Got: 0x48044
+# 61612 61612
+# 32991 61612
+# ERR: Expected: 0x32991 Got: 0x61612
+# 32991 32991
+# 34908 32991
+# ERR: Expected: 0x34908 Got: 0x32991
+# 34908 34908
+# 64428 34908
+# ERR: Expected: 0x64428 Got: 0x34908
+# 64428 64428
+# 12460 64428
+# ERR: Expected: 0x12460 Got: 0x64428
+# 12460 12460
+#   223 12460
+# ERR: Expected: 0x  223 Got: 0x12460
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+#   223 45228
+# ERR: Expected: 0x  223 Got: 0x45228
+#   223   223
+#  2140   223
+# ERR: Expected: 0x 2140 Got: 0x  223
+#  2140  2140
+# 31660  2140
+# ERR: Expected: 0x31660 Got: 0x 2140
+# 31660 31660
+# 45228 31660
+# ERR: Expected: 0x45228 Got: 0x31660
+# 45228 45228
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+#   478   478
+#  2395  2395
+# 31915 31915
+# 45483 45483
+#   734   734
+#  2651  2651
+# 32171 32171
+# 45739 45739
+#  1246  1246
+#  3163  3163
+# 32683 32683
+# 46251 46251
+#  2270  2270
+#  4187  4187
+# 33707 33707
+# 47275 47275
+#  4318  4318
+#  6235  6235
+# 35755 35755
+# 49323 49323
+#  8414  8414
+# 10331 10331
+# 39851 39851
+# 53419 53419
+# 16606 16606
+# 18523 18523
+# 48043 48043
+# 61611 61611
+# 32990 32990
+# 34907 34907
+# 64427 64427
+# 12459 12459
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+#   222   222
+#  2139  2139
+# 31659 31659
+# 45227 45227
+# Testing with carryin...
+#   479   479
+#  2396  2396
+# 31916 31916
+# 45484 45484
+#   735   735
+#  2652  2652
+# 32172 32172
+# 45740 45740
+#  1247  1247
+#  3164  3164
+# 32684 32684
+# 46252 46252
+#  2271  2271
+#  4188  4188
+# 33708 33708
+# 47276 47276
+#  4319  4319
+#  6236  6236
+# 35756 35756
+# 49324 49324
+#  8415  8415
+# 10332 10332
+# 39852 39852
+# 53420 53420
+# 16607 16607
+# 18524 18524
+# 48044 48044
+# 61612 61612
+# 32991 32991
+# 34908 34908
+# 64428 64428
+# 12460 12460
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+#   223   223
+#  2140  2140
+# 31660 31660
+# 45228 45228
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# ERR: Expected: 0x    1 Got: 0x45228
+#     1
+#     1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65534 Got: 0x65535
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# ERR: Expected: 0x    0 Got: 0x    1
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65534 Got: 0x65535
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# ERR: Expected: 0x    1 Got: 0x    0
+# ERR: Expected: 0x    0 Got: 0x    1
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# Testing unsigned overflow
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# Testing unsigned overflow
+# Testing zero bit...
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# Testing unsigned overflow
+# Testing zero bit...
+# ERR: Expected: 0x    0 Got: 0x    1
+# Testing finished
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# Compile of add16.v was successful with warnings.
+# Compile of add16_t.v was successful with warnings.
+# Compile of ALU_t.v was successful with warnings.
+# 14 compiles, 0 failed with no errors. 
+vsim work.ALU_t
+# vsim work.ALU_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.ALU
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.add1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.cla_logic
+run -all
+# Starting tests...
+# Testing shifter...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Testing adder...
+# Testing without carryin...
+# Testing with carryin...
+# Testing logical operations...
+# Testing operand inversion...
+# ERR: Expected: 0x65535 Got: 0x65534
+# ERR: Expected: 0x65535 Got: 0x65534
+# Testing overflow...
+# Testing signed overflow
+# Testing unsigned overflow
+# Testing zero bit...
+# Testing finished

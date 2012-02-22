@@ -46,10 +46,10 @@ r1
 31
 o-work work
 vALU
-ID@4CmF0AYcYdh9CaIe`K`2
-VNT]KI09fKR4^id^co6A^N0
+IC3[Re1AK1aQRb;^zme^I20
+V2:KONfS_ThTG1BY:nLN`40
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329892043
+w1329900394
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v
 L0 1
 OE;L;5.8b;17
@@ -57,6 +57,18 @@ r1
 31
 o-work work
 n@a@l@u
+vALU_t
+I==2h=Shk50f^:_WRmnjL73
+V2QI7BE<MaB];_FXf_Rji:3
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329902749
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU_t.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o-work work
+n@a@l@u_t
 vcla_logic
 I>jAaHHW_d][WlGIS>o4BK1
 Vk_S1n5Komne[m84hf=]BR0
