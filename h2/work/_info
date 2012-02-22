@@ -1,6 +1,51 @@
 m255
 cModel Technology
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1
+vadd1
+I3^M:No;:JQdib41?_O3fE0
+V0F?43G>zK;XM>zM<0H=WW3
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329892309
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add1.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
+vadd4
+I^JzGC7DmWB>U0eTSnJSCf3
+Vaz<RC>`ZFfEN0kV;F4iTe0
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329894101
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add4.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
+vALU
+ID@4CmF0AYcYdh9CaIe`K`2
+VNT]KI09fKR4^id^co6A^N0
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329892043
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o-work work
+n@a@l@u
+vcla_logic
+Ijz[:7;E_eX6]Rm<f7dj3Y0
+Vk_S1n5Komne[m84hf=]BR0
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329893781
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/cla_logic.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
 vmux16_2_1
 I[@K90V9eIo1nAn3hRMKI10
 VXcXYU<^>1f_X?mRlM3J:f1

@@ -1120,3 +1120,203 @@ run -all
 # Testing rotate right...
 # Testing rotate right...
 # Tests complete.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# 7 compiles, 0 failed with no errors. 
+vsim work.shift16_t
+# vsim work.shift16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16_t
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift16
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift8
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift4
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift2
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.shift1
+# Loading /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work.mux16_2_1
+run -all
+# Tests beginning...
+# Testing rotate left...
+# Testing shift left...
+# Testing rotate right...
+# Testing rotate right...
+# Tests complete.
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v failed with 1 errors.
+# 8 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# 8 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v failed with 1 errors.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v failed with 1 errors.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v failed with 1 errors.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v failed with 1 errors.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v failed with 1 errors.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v failed with 1 errors.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 1 failed with 1 error. 
+# Compile of mux16_2_1.v was successful with warnings.
+# Compile of shift1.v was successful with warnings.
+# Compile of shift2.v was successful with warnings.
+# Compile of shift4.v was successful with warnings.
+# Compile of shift8.v was successful with warnings.
+# Compile of shift16.v was successful with warnings.
+# Compile of shift16_t.v was successful with warnings.
+# Compile of ALU.v was successful with warnings.
+# Compile of add4.v was successful with warnings.
+# Compile of cla_logic.v was successful with warnings.
+# Compile of add1.v was successful with warnings.
+# 11 compiles, 0 failed with no errors. 
