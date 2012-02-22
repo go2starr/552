@@ -1,0 +1,8 @@
+# (A,B,Cin)= (0, 0, 0)	 Expected: (S=0, Cout=0) Got: (0, 0)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (S=1, Cout=1) Got: (1, 1)

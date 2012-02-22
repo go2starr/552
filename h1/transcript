@@ -553,3 +553,238 @@ run -all
 # State:  1	In: 0	Output: 0
 # State:  1	In: 0	Output: 0
 # Break at /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/hw1_3/seqdec_58_t.v line 46
+vsim work.fa_t
+# vsim work.fa_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fa_t
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,Cin)= (0, 0, 0)	 Expected: (S=0, Cout=0) Got: (0, 0)
+# (A,B,Cin)= (1, 0, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (0, 1, 0)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 1, 0)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 0, 1)	 Expected: (S=1, Cout=0) Got: (1, 0)
+# (A,B,Cin)= (1, 0, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (0, 1, 1)	 Expected: (S=0, Cout=1) Got: (0, 1)
+# (A,B,Cin)= (1, 1, 1)	 Expected: (S=1, Cout=1) Got: (1, 1)
+vsim work.add4_t
+# vsim work.add4_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.add4_t
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B,CI)=( 0,  0, 0)	 (SUM,CO):: Expected: (         0,0) Got: ( 0, 0)
+# (A,B,CI)=( 3,  7, 1)	 (SUM,CO):: Expected: (        11,0) Got: (11, 0)
+# (A,B,CI)=( 6, 14, 0)	 (SUM,CO):: Expected: (         4,1) Got: ( 4, 1)
+# (A,B,CI)=( 9,  5, 1)	 (SUM,CO):: Expected: (        15,0) Got: (15, 0)
+# (A,B,CI)=(12, 12, 0)	 (SUM,CO):: Expected: (         8,1) Got: ( 8, 1)
+# (A,B,CI)=(15,  3, 1)	 (SUM,CO):: Expected: (         3,1) Got: ( 3, 1)
+# (A,B,CI)=( 2, 10, 0)	 (SUM,CO):: Expected: (        12,0) Got: (12, 0)
+# (A,B,CI)=( 5,  1, 1)	 (SUM,CO):: Expected: (         7,0) Got: ( 7, 0)
+vsim work.fulladder16_t
+# vsim work.fulladder16_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.fulladder16_t
+# Loading work.fulladder16
+# Loading work.add4
+# Loading work.fa
+# Loading work.xor2
+# Loading work.not1
+# Loading work.mux2_1
+# Loading work.nand2
+run -all
+# (A,B)=(12701,  6027)	 (SUM,CO):: Expected: (     18728,0) Got: (18728, 0)
+# (A,B)=(50804,  7054)	 (SUM,CO):: Expected: (     57858,0) Got: (57858, 0)
+# (A,B)=( 6608,  9108)	 (SUM,CO):: Expected: (     15716,0) Got: (15716, 0)
+# (A,B)=(26432, 13216)	 (SUM,CO):: Expected: (     39648,0) Got: (39648, 0)
+# (A,B)=(40192, 21432)	 (SUM,CO):: Expected: (     61624,0) Got: (61624, 0)
+# (A,B)=(29696, 37864)	 (SUM,CO):: Expected: (      2024,1) Got: ( 2024, 1)
+# (A,B)=(53248,  5192)	 (SUM,CO):: Expected: (     58440,0) Got: (58440, 0)
+# (A,B)=(16384,  5384)	 (SUM,CO):: Expected: (     21768,0) Got: (21768, 0)
+vsim work.seqdec_58_t
+# vsim work.seqdec_58_t 
+# ** Warning: (vsim-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+# No such file or directory. (errno = ENOENT)
+# Loading work.seqdec_58_t
+# Loading work.clkrst
+# Loading work.seqdec_58
+# Loading work.dff
+# Loading work.detect_58_next
+# Loading work.mux16_1
+# Loading work.mux4_1
+# Loading work.mux2_1
+# Loading work.not1
+# Loading work.nand2
+# Loading work.quadmux4_1
+run -all
+# Doing one valid sequence
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Testing transitions
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Break at /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/hw1_3/seqdec_58_t.v line 46
+restart -f
+# Closing VCD file "dump.vcd"
+run -all
+# Doing one valid sequence
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Testing transitions
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Break at /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/hw1_3/seqdec_58_t.v line 46
+restart -f
+# Closing VCD file "dump.vcd"
+run -all
+# Doing one valid sequence
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Testing transitions
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  2	In: 1	Output: 0
+# State:  3	In: 0	Output: 0
+# State:  4	In: 1	Output: 0
+# State:  5	In: 1	Output: 0
+# State:  6	In: 0	Output: 0
+# State:  7	In: 0	Output: 0
+# State:  8	In: 0	Output: 1
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# State:  1	In: 0	Output: 0
+# Break at /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h1/src/hw1_3/seqdec_58_t.v line 46
