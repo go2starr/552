@@ -36,7 +36,7 @@ module shift1(
         end
 
         OP_ASR: begin
-           out[14:0] = in[15:2];
+           out[14:0] = in[15:1];
            out[15]   = in[15];
         end        
       endcase // case (op)

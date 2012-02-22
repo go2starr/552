@@ -12,44 +12,22 @@ OE;L;5.8b;17
 r1
 31
 o-work work
-vmux2_1
-ITf83Nh:JP8^czN_U`=Mgl3
-VgZ6WNB=]f`V<NV7L<>SF[2
-d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329885647
-F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux2_1.v
-L0 2
-OE;L;5.8b;17
-r1
-31
-o-work work
-vshift
-I:obQ5]`gfJ]Y;ILN5ghHM3
-VXN?_jObedcGQQ4E1IPmL82
-d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329885262
-F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift.v
-L0 2
-OE;L;5.8b;17
-r1
-31
-o-work work
 vshift1
-Ikb1kOgZ6XXMUiXZ]7GM:32
+IFf1flbbR;C8B>dm@4XYG91
 VgBI9Pzf?FC^cQMEObH1d:0
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329887180
-F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
+w1329890351
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v
 L0 2
 OE;L;5.8b;17
 r1
 31
 o-work work
 vshift16
-IB@k666f=>geW71MfC025[1
+IzaXHPQczWA9=fMcihoe7z2
 V?Ed5YahJ]UB3?<L?O]jbl2
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329887700
+w1329888248
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v
 L0 2
 OE;L;5.8b;17
@@ -57,22 +35,44 @@ r1
 31
 o-work work
 vshift16_t
-IH6Gh8kH^:YAzcKS0TGFEB3
-VM1UUH9g:TfYf2LJX?KhLY1
+I6^CGZGYA`V03Ro;b9ig4_2
+VXW0_?@f0iInzHnaoQ5meh3
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329887793
+w1329891267
 F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v
+L0 3
+OE;L;5.8b;17
+r1
+31
+o-work work
+vshift2
+IK1NBdY9L_hmjj]^I3AT_m1
+VUa0C?2]WI`fIEcXfS@KS23
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329888048
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v
 L0 2
 OE;L;5.8b;17
 r1
 31
 o-work work
-vshiftx
-I=J=G1fjLOl?aaL9gZ^Jn:2
-V?JE[:8Sb9]>[62FG2VH7W1
+vshift4
+IZmNXLic9bz5SEVPIAa:a=3
+V5g6aj32cRMAX29SK2]]DF2
 d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
-w1329885787
-F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shiftx.v
+w1329890404
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v
+L0 2
+OE;L;5.8b;17
+r1
+31
+o-work work
+vshift8
+Io0ba98COSzZZ<ck5fO^h:2
+VLcRIJ=3bOFS;3m^DSE?RS3
+d/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2
+w1329890407
+F/afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
 L0 2
 OE;L;5.8b;17
 r1

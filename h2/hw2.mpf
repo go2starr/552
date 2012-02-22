@@ -7,12 +7,12 @@
 std = $MODEL_TECH/../std
 ieee = $MODEL_TECH/../ieee
 verilog = $MODEL_TECH/../verilog
-vital2000 = $MODEL_TECH/../vital2000
 std_developerskit = $MODEL_TECH/../std_developerskit
 synopsys = $MODEL_TECH/../synopsys
 modelsim_lib = $MODEL_TECH/../modelsim_lib
 
-work = work
+work = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work
+vital2000 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/work
 [vcom]
 ; VHDL93 variable selects language version as the default. 
 ; Default is VHDL-2002.
@@ -188,7 +188,7 @@ UserTimeUnit = ns
 RunLength = 100 ns
 
 ; Maximum iterations that can be run without advancing simulation time
-IterationLimit = 5000
+IterationLimit = 1000
 
 ; Directives to license manager can be set either as single value or as
 ; space separated multi-values:
@@ -207,7 +207,7 @@ IterationLimit = 5000
 
 ; Stop the simulator after a VHDL assertion message
 ; 0 = Note  1 = Warning  2 = Error  3 = Failure  4 = Fatal
-BreakOnAssertion = 3
+BreakOnAssertion = 4
 
 ; VHDL assertion Message Format
 ; %S - Severity Level 
@@ -401,6 +401,7 @@ ConcurrentFileLimit = 40
 ; 0 = Continue  1 = Break  2 = Exit
 ; AssertionFailAction = 1
 
+DelayFileOpen = 1
 [lmc]
 ; ModelSim's interface to Logic Modeling's SmartModel SWIFT software
 libsm = $MODEL_TECH/libsm.sl
@@ -437,19 +438,19 @@ Project_DefaultLib = work
 Project_SortMethod = unused
 Project_Files_Count = 7
 Project_File_0 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16.v
-Project_File_P_0 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329887700 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 5 dont_compile 0 cover_stmt 1
+Project_File_P_0 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329888248 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 5 dont_compile 0 cover_stmt 1
 Project_File_1 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift8.v
-Project_File_P_1 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329887180 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 4 dont_compile 0 cover_stmt 1
+Project_File_P_1 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329890407 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 4 dont_compile 0 cover_stmt 1
 Project_File_2 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift4.v
-Project_File_P_2 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329887018 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 3 dont_compile 0 cover_stmt 1
+Project_File_P_2 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329890404 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 3 dont_compile 0 cover_stmt 1
 Project_File_3 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/mux16_2_1.v
-Project_File_P_3 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329882716 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 0 dont_compile 0 cover_stmt 1
+Project_File_P_3 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329882716 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 0 dont_compile 0 cover_stmt 1
 Project_File_4 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift1.v
-Project_File_P_4 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329886849 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 1 dont_compile 0 cover_stmt 1
+Project_File_P_4 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329890351 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 1 dont_compile 0 cover_stmt 1
 Project_File_5 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift16_t.v
-Project_File_P_5 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329887793 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 6 dont_compile 0 cover_stmt 1
+Project_File_P_5 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329891267 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 compile_to work vlog_upper 0 vlog_options {} compile_order 6 dont_compile 0 cover_stmt 1
 Project_File_6 = /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_1/shift2.v
-Project_File_P_6 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329886824 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 2 dont_compile 0 cover_stmt 1
+Project_File_P_6 = vlog_protect 0 file_type Verilog group_id 0 vlog_1995compat 0 vlog_nodebug 0 folder {Top Level} last_compile 1329888048 vlog_noload 0 vlog_disableopt 0 vlog_hazard 0 vlog_showsource 0 ood 0 vlog_options {} vlog_upper 0 compile_to work compile_order 2 dont_compile 0 cover_stmt 1
 Project_Sim_Count = 0
 Project_Folder_Count = 0
 Echo_Compile_Output = 0

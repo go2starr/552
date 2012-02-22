@@ -3,7 +3,7 @@ module shift16(
                In,              // input value to shift
                Cnt,             // number of bits to shift
                Op,              // shifter operand
-               Out,             // output
+               Out              // output
                );
    // Inputs
    input [15:0] In;
@@ -20,10 +20,10 @@ module shift16(
                l0, sl0;         // 1-shift
 
    // Shifter outputs
-   shift8 s8 (l3, op, sl3);
-   shift4 s4 (l2, op, sl2);
-   shift2 s2 (l1, op, sl1);
-   shift1 s1 (l0, op, sl0);
+   shift8 s8 (l3, Op, sl3);
+   shift4 s4 (l2, Op, sl2);
+   shift2 s2 (l1, Op, sl1);
+   shift1 s1 (l0, Op, sl0);
 
    // Connections
    assign l3 = In;

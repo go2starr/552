@@ -1,5 +1,5 @@
-/* shift1.v - shift 1 */
-module shift1(
+/* shift2.v - shift 2 */
+module shift2(
               in,               // value to shift
               op,               // operand
               out

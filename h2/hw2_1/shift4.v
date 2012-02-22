@@ -1,5 +1,5 @@
-/* shift1.v - shift 1 */
-module shift1(
+/* shift4.v - shift 4 */
+module shift4(
               in,               // value to shift
               op,               // operand
               out
@@ -36,7 +36,7 @@ module shift1(
         end
 
         OP_ASR: begin
-           out[11:0] = in[15:2];
+           out[11:0] = in[15:4];
            out[15]   = in[15];
            out[14]   = in[15];
            out[13]   = in[15];
