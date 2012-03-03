@@ -106,6 +106,16 @@ Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
 Top level modules:
 	add1
 
+} {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v
+** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim SE vlog 5.8b Compiler 2004.01 Jan 26 2004
+-- Compiling module ALU
+** Warning: /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/ALU.v(80): [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	ALU
+
 } {} {}} /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16_t.v {2 {vlog -work work /afs/cs.wisc.edu/u/s/t/starr/edu/sp12/552/h2/hw2_2/add16_t.v
 ** Warning: (vlog-18) Environment variable MGC_LOCATION_MAP does not point to a valid path: "/u/s/t/starr/mentor/.location".
 No such file or directory. (errno = ENOENT)
